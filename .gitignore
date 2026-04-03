@@ -1,0 +1,7 @@
+
+*.npy
+*.sh
+.venv/
+venv/
+__pycache__/
+*.pyc

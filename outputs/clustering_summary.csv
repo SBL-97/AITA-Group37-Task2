@@ -1,5 +1,5 @@
 Method,Silhouette Score,NMI Score,Balanced Clusters?,Best For
-TF-IDF + K-Means,0.0049,0.0329,No,Keyword-based separation
-TF-IDF + HAC,0.0007,0.019,No,Hierarchical structure
-Embeddings + K-Means,0.0228,0.0286,Yes,Semantic grouping
-Embeddings + HAC,0.0091,0.0161,Yes,Semantic hierarchy
+TF-IDF + K-Means,0.0073,0.0399,No,Keyword-based separation
+TF-IDF + HAC,-0.0007,0.0276,No,Hierarchical structure
+Embeddings + K-Means,0.0209,0.0348,Yes,Semantic grouping
+Embeddings + HAC,0.0062,0.0429,Yes,Semantic hierarchy

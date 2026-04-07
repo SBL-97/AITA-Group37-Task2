@@ -1,0 +1,22 @@
+
+# Large files
+*.npy
+*.sh
+
+# Large CSVs
+sentence_records_df.csv
+sentence_test_records_df.csv
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

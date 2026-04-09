@@ -8,6 +8,7 @@ outputs_SB/finetune_axis1B
 # System files
 .DS_Store
 Thumbs.db
+.Rhistory
 
 # files
 *.txt

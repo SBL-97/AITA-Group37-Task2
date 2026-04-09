@@ -1,0 +1,101 @@
+doc_id,gold_participants,gold_interventions,gold_outcomes,pred_participants,pred_interventions,pred_outcomes,approach
+0,participants,,,patients with [condition],Xylitol,Xylitol for prevention of acute otiti,zero_shot_flant5
+1,participants,,,[condition],Fentanyl to 1.5 % lidocaine,Anesthesia for in vitro fertilization,zero_shot_flant5
+2,participants,,,women undergoing ultrasonically guided oocyte,"fentanyl, lidocaine",fentanyl to 1.5 % lidocaine,zero_shot_flant5
+3,participants,,,hypertensive,insufficient sleep on blood,Effects of insufficient sleep on blood pressure,zero_shot_flant5
+4,participants,,,36 never-treated mild to moderate hypertensive,Acute sleep deprivation,The influence of acute sleep deprivation during the first part of the night on 24-h blood pressure,zero_shot_flant5
+5,participants,,,[condition],Remifentanil,percentages or measurements,zero_shot_flant5
+6,participants,,,[condition],Ropivacaine/fentanyl,Comparison of three solutions of ropivacaine/fentany,zero_shot_flant5
+7,participants,,,[condition],implant-retained mandibular overdentures,Masticatory performance and chewing experience,zero_shot_flant5
+8,participants,,,patients with implant-retained overdentures,implant-retained overdentures,The relationship between masticatory performance has not yet been explored,zero_shot_flant5
+9,participants,,,congenital adrenal hyperplasia,Glucophage,"Genotyping of CYP21 , linked chromosome 6p markers",zero_shot_flant5
+10,participants,,,50 samples from Swiss and North American infants,Swiss and North American,50 samples from Swiss,zero_shot_flant5
+11,participants,,,neutropenic,piperacillin and tazobactam,The potential advantages,zero_shot_flant5
+12,participants,,,"6,781 patients with left ventricular dysfunction",Studies of Left Ventricular Dysfunction,Pulse and mean arterial pressure were analyzed for their effect on mortality,zero_shot_flant5
+13,participants,,,typhoid,ofloxacin and cefixime,ofloxacin and cefixime,zero_shot_flant5
+14,participants,,,multidrug-resistant typhoid,fluoroquinolone,"Despite concerns about safety in children , fluoroquinolone antibiotics have become the treatment",zero_shot_flant5
+15,participants,,,children with suspected typhoid,ofloxacin cefixime,ofloxacin ( 10 mg/kg/day in two divided doses for 5 days or cefixime (20 mg/kg/day in two divided doses for 7 days,zero_shot_flant5
+16,participants,,,X patients with [condition],cefixime ofloxacin,RESULTS S. typhi,zero_shot_flant5
+17,participants,,,typhoid,ofloxacin,CONCLUSION Short course treatment with cefixime,zero_shot_flant5
+18,participants,,,X patients with [condition],epinephrine,percentages,zero_shot_flant5
+19,participants,,,patients with [condition],epinephrine,Twenty-nine patients received epinephrine,zero_shot_flant5
+20,participants,,,normal children and children with pervasive developmental disorders,The TOM test,The TOM test : a new instrument,zero_shot_flant5
+21,participants,,,X patients with pervasive developmental,TOM test,reliability and validity,zero_shot_flant5
+22,participants,,,X patients with [condition],ibuprofen ibuprofen,young children only succeeded on TOM,zero_shot_flant5
+23,participants,,,[condition],TOM,the TOM test possesses sufficient test-retest stability,zero_shot_flant5
+24,participants,,,children with PDDs,PDDs,significantly lower TOM test scores,zero_shot_flant5
+25,,interventions,,[condition],ranitidine and lansoprazole,Comparison of ranitidine and lansoprazole,zero_shot_flant5
+26,,interventions,,99 patients with Helicobacter pylori,"lansoprazole, ranitidine, clarithromycin, metronidazole",efficacy and safety of two 1-week,zero_shot_flant5
+27,,interventions,,[condition],LPZ 30 mg,The drug combination and administration periods in the PPI group were LPZ,zero_shot_flant5
+28,,interventions,,X patients with [condition],ranitidine,The ranitidine group received RNT,zero_shot_flant5
+29,,interventions,,patients of chronic obstructive pulmonary disease,Pre-operative short-term pulmonary rehabilitation,Pre-operative short-term pulmonary rehabilitation for patients of chronic obstructive pulmonary disease,zero_shot_flant5
+30,,interventions,,patients with chronic obstructive pulmonary disease,Coronary artery bypass graft (CABG),The role of pre-operative short-term pulmonary rehabilitation in patients with chronic obstructive pulmonary disease,zero_shot_flant5
+31,,interventions,,Forty-five,Coronary artery bypass graft,short-term pulmonary rehabilitation,zero_shot_flant5
+32,,interventions,,X patients with [condition],Spinal anesthesia,Results of a randomized controlled clinical trial,zero_shot_flant5
+33,,interventions,,Seventy-eight,hyperbaric 1.5 % lidocaine,45 mg of hyperbaric 1.5 % lidocaine with or without,zero_shot_flant5
+34,,interventions,,X patients with [condition],methotrexate and laparoscopic salpingostomy,Fertility outcome after systemic methotrexate and laparoscopic,zero_shot_flant5
+35,,interventions,,X patients with [condition],Sleep deprivation,They were randomized to have either sleep deprivation,zero_shot_flant5
+36,,interventions,,X patients with asthma,chlorofluorocarbon albuterol,Number of patients who switched from CFC albuterol to HFA albuterol,zero_shot_flant5
+37,,interventions,,[condition],albuterol,HFA albuterol,zero_shot_flant5
+38,,interventions,,patients with [condition],CFC albuterol,comparable safety and efficacy,zero_shot_flant5
+39,,interventions,,Patients with asthma stabilized on CFC,CFC albuterol HFA albuterol,Patients with asthma stabilized on CFC albuterol during a 12-week safety and efficacy trial were randomized to either continue receiving CFC albuterol,zero_shot_flant5
+40,,interventions,,X patients with [condition,CFC albuterol HFA albuterol,No significant differences,zero_shot_flant5
+41,,interventions,,X patients with [condition],CFC albuterol HFA albuterol,Patients with asthma switched from CFC albuterol to HFA albuterol receive comparable bronchodilation,zero_shot_flant5
+42,,interventions,,X patients with [condition],"remifentanil, alfentanil",10 healthy volunteers received an infusion,zero_shot_flant5
+43,,interventions,,X patients with [condition],Remifentanil and alfentanil,remifentanil and alfentanil,zero_shot_flant5
+44,,interventions,,X patients with [condition],Ropivacaine,"Ropivacaine , 0.2 % is a new local anesthetic approved for epidural",zero_shot_flant5
+45,,interventions,,[condition],Fentanyl,percentages,zero_shot_flant5
+46,,interventions,,Thirty patients undergoing lower abdominal surgery,ropivacaine-4 microg fentanyl,fentanyl for patient-controlled epidural analgesia,zero_shot_flant5
+47,,interventions,,[condition],"Ropivacaine, Fentanyl",A significantly smaller volume of 0.2 % ropivacaine,zero_shot_flant5
+48,,interventions,,X patients with [condition],Lesser Concentrations of Ropivacaine and Fentanyl Provide Comparable Analgesia,Lesser concentrations of ropivacaine,zero_shot_flant5
+49,,interventions,,X patients with [condition],Transmandibular,mainly implant-supported mandibular,zero_shot_flant5
+50,,,outcomes,X patients with Helicobacter,H2 blockaders,[ Triple therapy regimens involving H2 blockaders,zero_shot_flant5
+51,,,outcomes,X patients with [condition],H. pylori,The cure rate of H. pylori,zero_shot_flant5
+52,,,outcomes,X patients with [condition],Pre-operative and post-operative peak expiratory flow,"Pre-operative and post-operative peak expiratory flow rate , inspiratory capacity , post-operative ventilation time , post-operative pulmonary complication",zero_shot_flant5
+53,,,outcomes,X patients with [condition],ibuprofen,Peak expiratory flow rate ( 220.0 +/- 12.9 and 324.3 +/- 84.3,zero_shot_flant5
+54,,,outcomes,X patients with [condition],Post-operative peak expiratory flow rate,Even though both groups showed a significant rise in post-operative peak expiratory flow rate and inspiratory capacity,zero_shot_flant5
+55,,,outcomes,X patients with [condition],"Group I , post-operative ventilation","post-operative ventilation time ( 24.5 +/- 6.00 hours ), post-operative complications ( n = 4 ) and hospital stay",zero_shot_flant5
+56,,,outcomes,X patients with [condition],Short-Term Pulmonary Rehabilitation,These data suggest that short-term pulmonary rehabilitation,zero_shot_flant5
+57,,,outcomes,X patients with [condition],fentanyl,Visual analog scale ( VAS ),zero_shot_flant5
+58,,,outcomes,[condition],fentanyl,amount of narcotic,zero_shot_flant5
+59,,,outcomes,X patients with [condition],VAS scores,There was no difference in VAS scores,zero_shot_flant5
+60,,,outcomes,X patients with [condition],analgesics and narcotics,The amount of analgesics and narcotics,zero_shot_flant5
+61,,,outcomes,X patients with [condition],Acyclobutanol,time to urination,zero_shot_flant5
+62,,,outcomes,X patients with [condition],norepinephrine,Urinary excretion of norepinephrine,zero_shot_flant5
+63,,,outcomes,X patients with [condition],sleep-deprivation,both mean 24-h blood pressure and mean 24-h heart,zero_shot_flant5
+64,,,outcomes,[condition],Urinary excretion of norepineph,Urinary excretion of norepinephrine,zero_shot_flant5
+65,,,outcomes,X patients with [condition],sleep-insufficiency,Blood pressure and heart rate significantly increased,zero_shot_flant5
+66,,,outcomes,hypertensive,sleep aids,These data suggest that lack of,zero_shot_flant5
+67,,,outcomes,X patients with [condition],Target Organ Damage and Acute Cardiac Disease,This situation might represent an increased risk for both target organ damage,zero_shot_flant5
+68,,,outcomes,[condition],CFC albuterol HFA albuterol,Safety and efficacy,zero_shot_flant5
+69,,,outcomes,X patients with [condition],Bronchodilator efficacy,Bronchodilator efficacy was evaluated by serial spirometry,zero_shot_flant5
+70,,,outcomes,[condition],study drug,Safety was assessed by measuring changes,zero_shot_flant5
+71,,,outcomes,X patients with [condition],two products were found,No differences between the two products were,zero_shot_flant5
+72,,,outcomes,X patients with [condition],albuterol CFC albuterol,Adverse event profiles were similar,zero_shot_flant5
+73,,,outcomes,X patients with [condition],No clinically,No clinically meaningful changes in laboratory tests,zero_shot_flant5
+74,,,outcomes,X patients with [condition],remifentanil and alfentanil,Behavioral and physiological effects,zero_shot_flant5
+75,,,,X patients with [condition],Carbamazepine,"Patients of both groups were evenly matched with respect to age , sex",zero_shot_flant5
+76,,,,X patients with [condition],Normal individuals who evenly,Normal individuals who evenly matched with the study group,zero_shot_flant5
+77,,,,X patients with [condition],Ultrasonically guided transvaginal,UNLABELLED Ultrasonically guided transvaginal,zero_shot_flant5
+78,,,,X patients with [condition],anesthetic technique,The optimal anesthetic technique should allow good surgical anesthesia with minimal,zero_shot_flant5
+79,,,,[condition],fentanyl,The addition of,zero_shot_flant5
+80,,,,[condition],fentanyl to lidocaine,The addition of fentanyl to lidocaine for transvaginal,zero_shot_flant5
+81,,,,X patients with [condition],"Fentanyl, lidocaine",patients are more comfortable when fentanyl is added,zero_shot_flant5
+82,,,,[condition],Narcotic Requirements,narcotic requirements of patients are less,zero_shot_flant5
+83,,,,[condition],Chlorofluorocarbon,Chlorofluorocarbon propellants deplete stratospheric ozone,zero_shot_flant5
+84,,,,[condition],CFCs,Production and use of CFCs,zero_shot_flant5
+85,,,,[condition],metered-dose inhalers,Use of CFCs as propellants,zero_shot_flant5
+86,,,,X patients with [condition],Alfentanil,Alfentanil,zero_shot_flant5
+87,,,,X patients with [condition],Infusions of ibuprofen,Mood forms and psychomotor tests,zero_shot_flant5
+88,,,,X patients with [condition],acetaminoph,analgesia was tested,zero_shot_flant5
+89,,,,X patients with [condition],Remifentanil,A psychomotor test administered 60 min,zero_shot_flant5
+90,,,,X patients with [condition],Epidural analgesia,Patient-controlled epidural analgesia,zero_shot_flant5
+91,,,,X patients with [condition],"Xylitol, ibuprofen",Although many relationships have been found between parameters of objective,zero_shot_flant5
+92,,,,[condition],comminution of an artificial,the relationship between the comminution,zero_shot_flant5
+93,,,,[condition],implant treatment,The trial involved a comparison between,zero_shot_flant5
+94,,,,X patients with [condition],No significant differences,No significant differences emerged,zero_shot_flant5
+95,,,,[condition],masticatory performance does not imply the,an improvement in masticatory performance does not imply the,zero_shot_flant5
+96,,,,X patients with [condition],Gene-Specific PCR,"DNA was extracted , and gene-specific PCR",zero_shot_flant5
+97,,,,X patients with [condition,Carbamazepine,All 247 episodes,zero_shot_flant5
+98,,,,X patients with [condition],oral decontamination,The two populations were well,zero_shot_flant5
+99,,,,patients with left ventricular dysfunction,Pulse Pressure and Mean Arterial Pressure to Mortality in Patients with Left Ventricular Dysfunction,The purpose of this study was to evaluate the relationship of baseline pulse pressure and mean arterial pressure to mortality,zero_shot_flant5

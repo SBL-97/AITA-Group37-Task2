@@ -1,0 +1,101 @@
+doc_id,gold_participants,gold_interventions,gold_outcomes,pred_participants,pred_interventions,pred_outcomes,approach
+0,participants,,,Outcome: Xylitol,Outcome: Xylitol,Prevention of acute otitis media,few_shot_flant5
+1,participants,,,Outcome: Anesthesiologist,Outcome: fentanyl,Anesthesia for in vitro fertilization,few_shot_flant5
+2,participants,,,Outcome: Women,Outcome: Fentanyl,Fentanyl added to lidocaine in women undergoing ultrasonically guided oocyte retrieval,few_shot_flant5
+3,participants,,,Outcome: hypertensive,Outcome: Effects,Effects of insufficient sleep,few_shot_flant5
+4,participants,,,Outcome: hypertensive,Outcome: Acute sleep deprivation,Acute sleep deprivation during the first part of the night on 24-h blood pressure,few_shot_flant5
+5,participants,,,Outcome: volunteers,Outcome: remifentanil,mood inventories and psychomotor,few_shot_flant5
+6,participants,,,Outcome: Patients,Outcome: Comparison,Comparison of three solutions of ropivacaine/fentany,few_shot_flant5
+7,participants,,,Outcome: Mandibular,Outcome: Masticatory,Masticatory performance and chewing,few_shot_flant5
+8,participants,,,Outcome: patients,Outcome: The relationship between masticatory,The relationship between masticatory performance,few_shot_flant5
+9,participants,,,Outcome: Congenital adrenal hyperplasia,Outcome: Genotyping,Genotyping for congenital adrenal hyperplasi,few_shot_flant5
+10,participants,,,Outcome: Another,Outcome: Genotype,Another 50 samples from Swiss,few_shot_flant5
+11,participants,,,Outcome: neutropenic,Outcome: combination of piperacillin,combination of piperacillin and tazobactam,few_shot_flant5
+12,participants,,,"Outcome: 6,781",Outcome: Pulse,Pulse and mean arterial pressure were analyzed,few_shot_flant5
+13,participants,,,Outcome: ofloxacin and cefixime,Outcome: ofloxacin and cefixime,ofloxacin and cefixime for treatment of typhoid,few_shot_flant5
+14,participants,,,Outcome: Multidrug-Resistant Typhoid,Outcome: fluoroquinolone,Intervention: fluoroquinolone,few_shot_flant5
+15,participants,,,Outcome: children with suspected typhoi,Outcome: ofloxacin,ofloxacin or cefixime,few_shot_flant5
+16,participants,,,Outcome: S. typhi,Outcome: Ofloxacin,Isolated S. typhi was multidrug-resistant,few_shot_flant5
+17,participants,,,Outcome: Children,Outcome: Cefixime,Short course treatment,few_shot_flant5
+18,participants,,,Outcome: patients with panic disorder and in social phobics,Outcome: epinephrine,effects of epinephrine,few_shot_flant5
+19,participants,,,Outcome: epinephrine,Outcome: epinephrine,epinephrine,few_shot_flant5
+20,participants,,,Outcome: normal,Outcome: Test,The TOM test,few_shot_flant5
+21,participants,,,Outcome: Children,Outcome: TOM,Reliability,few_shot_flant5
+22,participants,,,Outcome: young children,Outcome: TOM,Young children only succeeded on TOM items,few_shot_flant5
+23,participants,,,Outcome: normal children,Outcome: TOM,test-retest stability,few_shot_flant5
+24,participants,,,Outcome: Children,Outcome: TOM,Discriminant validity of the TOM,few_shot_flant5
+25,,interventions,,Outcome: Helicobacter pylori,Outcome: Comparison of ranitidine and lansoprazol,Comparison of ranitidine and lansoprazole,few_shot_flant5
+26,,interventions,,Outcome: 99,Outcome: drugs,Efficacy and safety of two 1-week low-dose triple-therapy drug regimens involving antisecretory drugs,few_shot_flant5
+27,,interventions,,Outcome: PPI,Outcome: PPI,The drug combination,few_shot_flant5
+28,,interventions,,Outcome: ranitidine,Outcome: ranitidine,ranitidine,few_shot_flant5
+29,,interventions,,Outcome: Patients,Outcome: Pre-operative,Pre-operative short-term pulmonary rehabilitation for patients of chronic obstructive pulmonary disease,few_shot_flant5
+30,,interventions,,Outcome: patients with chronic obstructive pulmonary,Outcome,Role of pre-operative short-term pulmonary rehabilitation,few_shot_flant5
+31,,interventions,,Outcome: Forty-five,Outcome: short-term,short-term pulmonary rehabilitation,few_shot_flant5
+32,,interventions,,Outcome: Procedure,Outcome,Spinal anesthesia,few_shot_flant5
+33,,interventions,,Outcome: Seventy-eight,Outcome: 45 mg of hyperbaric 1.5 % lidocaine,Lidocaine and fentanyl,few_shot_flant5
+34,,interventions,,Outcome: Systemic methotrexate,Outcome: systemic methotrexate,Systemic methotrexate and laparoscopic salpingostomy,few_shot_flant5
+35,,interventions,,Outcome: They,Outcome: sleep deprivation,They were randomized to have either sleep deprivation,few_shot_flant5
+36,,interventions,,Outcome: Patients,Outcome: Albuterol,Switching patients with asthma from chlorofluorocarbon albuterol to hydrofluoroalkane-134,few_shot_flant5
+37,,interventions,,Outcome: Albuterol,Outcome: albuterol,albuterol ( HFA albuterol,few_shot_flant5
+38,,interventions,,Outcome: Patients,Outcome,Comparable safety and efficacy,few_shot_flant5
+39,,interventions,,Outcome: Patients,Outcome: Albuterol,Patients with asthma stabilized on CFC albuterol during a 12-week safety,few_shot_flant5
+40,,interventions,,Outcome: CFC albuterol,Outcome: Albuterol,No significant differences in bronchodilator efficacy,few_shot_flant5
+41,,interventions,,Outcome: Patients,Outcome: Albuterol,Comparable bronchodilation,few_shot_flant5
+42,,interventions,,Outcome: Ten healthy volunteers,Outcome: infusion,Intervention: saline,few_shot_flant5
+43,,interventions,,Outcome: Adult,Outcome: infusion,Age- and weight,few_shot_flant5
+44,,interventions,,Outcome: Introduction,Outcome: Drug,BACKGROUND,few_shot_flant5
+45,,interventions,,Outcome: fentanyl,Outcome: Fentanyl,analgesia from epidural,few_shot_flant5
+46,,interventions,,Outcome: Thirty,Outcome: fentanyl,fentanyl for patient-controlled epidural analgesia,few_shot_flant5
+47,,interventions,,Outcome: None,Outcome: Fentanyl,fentanyl,few_shot_flant5
+48,,interventions,,Outcome: Subject,Outcome: Lesser Concentrations,analgesia,few_shot_flant5
+49,,interventions,,Outcome: Mandibular,Outcome: Implant,Mandibular overdenture,few_shot_flant5
+50,,,outcomes,Outcome: Triple therapy,Outcome: Triple,Triple therapy regimens involving H2 blockaders,few_shot_flant5
+51,,,outcomes,Outcome: H. pylori,Outcome: cure,CURE RATIOD,few_shot_flant5
+52,,,outcomes,Outcome: both the groups,Outcome: Peak expiratory flow,"Pre-operative and post-operative peak expiratory flow rate , inspiratory capacity",few_shot_flant5
+53,,,outcomes,Outcome: Adults,Outcome: Surgery,Peak expiratory flow rate and inspiratory capacity were significantly lower before and after surgery,few_shot_flant5
+54,,,outcomes,Outcome: Both groups,Outcome: Surgery,post-operative peak expiratory flow rate and inspiratory,few_shot_flant5
+55,,,outcomes,Outcome: Patients,Outcome: post-operative complications,Complications,few_shot_flant5
+56,,,outcomes,Outcome: short-term,Outcome,Short-Term Pulmonary Rehabilitation Is Feasible,few_shot_flant5
+57,,,outcomes,Outcome: VAS,Outcome: fentanyl,fentanyl,few_shot_flant5
+58,,,outcomes,Outcome: Narcotic,Outcome: Fentanyl,amount of narcotic,few_shot_flant5
+59,,,outcomes,Outcome: VAS,Outcome: VAS,There was no difference in VAS scores,few_shot_flant5
+60,,,outcomes,Outcome: both,Outcome: None,analgesic and narcotic,few_shot_flant5
+61,,,outcomes,Outcome: women,Outcome: None,time to urination,few_shot_flant5
+62,,,outcomes,Outcome: Urine,Outcome: Urine,Urinary excretion of norepinephrine,few_shot_flant5
+63,,,outcomes,Outcome: adults,Outcome: blood pressure,Mean 24-h blood pressure and mean 24-h heart,few_shot_flant5
+64,,,outcomes,Outcome: Urinary excretion,Outcome: Urinary excretion,Urinary excretion of norepinephrine,few_shot_flant5
+65,,,outcomes,Outcome: Blood pressure and heart rate,Outcome: Blood pressure,Blood pressure and heart rate significantly,few_shot_flant5
+66,,,outcomes,Outcome: hypertensive,Outcome: Sleep,lack of sleep,few_shot_flant5
+67,,,outcomes,Outcome: This situation might represent an increased,Outcome: This situation might represent an increased risk,This situation might represent an increased risk for both target organ damage and acute cardiovascular diseases,few_shot_flant5
+68,,,outcomes,Outcome: CFC albuterol,Outcome: Albuterol,Safety and efficacy,few_shot_flant5
+69,,,outcomes,Outcome: Bronchodilator,Outcome: Bronchodilator efficacy,Serial spirometry,few_shot_flant5
+70,,,outcomes,Outcome: Safety,Outcome: Safety,Safety was assessed,few_shot_flant5
+71,,,outcomes,Outcome: No differences,Outcome: No differences,No differences between the two,few_shot_flant5
+72,,,outcomes,Outcome: Adverse event,Outcome: Albuterol,Adverse event profiles,few_shot_flant5
+73,,,outcomes,Outcome: None,Outcome: None,No clinically meaningful changes in laboratory tests,few_shot_flant5
+74,,,outcomes,Outcome: volunteers,Outcome: remifentanil and alfentanil,Behavioral and physiological effects of remifentanil,few_shot_flant5
+75,,,,Outcome: Patients,Outcome: Patients,"Patients of both groups were evenly matched with respect to age , sex",few_shot_flant5
+76,,,,Outcome: Normal individuals,Outcome,normal respiratory function parameters,few_shot_flant5
+77,,,,Outcome: Ultrasonically guided transvaginal,Outcome,Ultrasonically guided transvaginal oocyte,few_shot_flant5
+78,,,,Outcome: The optimal anesthetic technique,Outcome: The optimal anesthetic technique,The optimal anesthetic technique should allow,few_shot_flant5
+79,,,,Outcome: Fentanyl,Outcome: Fentanyl,Addition of fentanyl,few_shot_flant5
+80,,,,Outcome: transvaginal,Outcome: Fentanyl,Addition of fentanyl,few_shot_flant5
+81,,,,Outcome: Patients,Outcome: Fentanyl,fentanyl is added to a local anesthetic,few_shot_flant5
+82,,,,Outcome: patients,Outcome: narcotic,The narcotic requirements of patients,few_shot_flant5
+83,,,,Outcome: Chlorofluorocarbon,Outcome: Chlorofluorocarbon,Deplete stratospheric ozone,few_shot_flant5
+84,,,,Outcome: CFC,Outcome: Production,Production and use,few_shot_flant5
+85,,,,Outcome: CFC,Outcome: Use,Use of CFCs as propellant,few_shot_flant5
+86,,,,Outcome: Alfentanil,Outcome: Alfentanil,Alfentanil,few_shot_flant5
+87,,,,Outcome: patients,Outcome,Mood forms and psychomotor,few_shot_flant5
+88,,,,Outcome: cold-pressor,Outcome,cold-pressor test,few_shot_flant5
+89,,,,Outcome: volunteers,Outcome: Remifentanil,were still impaired,few_shot_flant5
+90,,,,Outcome: Patient,Outcome: Patient,Patient-controlled epidural analgesia,few_shot_flant5
+91,,,,Outcomes: Abstract,Outcome:,Parameters of objective and subjective oral,few_shot_flant5
+92,,,,Outcome,Outcome,The relationship between the comminution of an artificial test,few_shot_flant5
+93,,,,Outcome,Outcome,implant treatment,few_shot_flant5
+94,,,,Outcome: No,Outcome: No,No significant differences emerged,few_shot_flant5
+95,,,,Outcome,Outcome,An improvement in masticatory performance does not imply the same improvement,few_shot_flant5
+96,,,,Outcome: DNA,Outcome: DNA,DNA was extracted and gene-specific,few_shot_flant5
+97,,,,Outcome: 247,Outcome: None,""" intent-to-treat",few_shot_flant5
+98,,,,Outcome: The two populations,Outcome: chemotherapy,Intervention: neutropenia,few_shot_flant5
+99,,,,Outcome: Patients,Outcomes: Pulse Pressure and Mean Arterial Pressure,Pulse Pressure and Mean Arterial Pressure in Patients with Left Ventricular Dysfunction,few_shot_flant5

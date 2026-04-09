@@ -1,0 +1,13 @@
+approach,field,precision,recall,f1,coverage
+Zero-shot Flan-T5,participants,0.0,0.0,0.0,1.0
+Zero-shot Flan-T5,interventions,0.0,0.0,0.0,1.0
+Zero-shot Flan-T5,outcomes,0.0,0.0,0.0,1.0
+Few-shot Flan-T5,participants,0.0,0.0,0.0,1.0
+Few-shot Flan-T5,interventions,0.0,0.0,0.0,1.0
+Few-shot Flan-T5,outcomes,0.0,0.0,0.0,1.0
+Zero-shot Qwen,participants,0.7151,0.2228,0.3103,0.96
+Zero-shot Qwen,interventions,0.7434,0.1723,0.2556,0.96
+Zero-shot Qwen,outcomes,0.7084,0.2694,0.3469,0.97
+Few-shot Qwen,participants,0.6907,0.3832,0.4585,1.0
+Few-shot Qwen,interventions,0.7263,0.2237,0.3115,0.98
+Few-shot Qwen,outcomes,0.7282,0.3787,0.4442,0.98

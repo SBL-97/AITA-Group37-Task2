@@ -1,0 +1,15 @@
+# Data folder — too large for GitHub
+EBM-NLP-master/
+
+# Large numpy/scipy files
+outputs_SB/embeddings_axis1B
+outputs_SB/finetune_axis1B
+
+# System files
+.DS_Store
+Thumbs.db
+.Rhistory
+
+# files
+*.txt
+*.md

@@ -1,9 +1,11 @@
 # Data folder — too large for GitHub
 EBM-NLP-master/
 
-# Large numpy/scipy files
-outputs_SB/embeddings_axis1B
-outputs_SB/finetune_axis1B
+# Large files
+outputs/Axis1A
+outputs/Axis1B
+outputs/Axis2A
+outputs/Axis2B
 
 # System files
 .DS_Store

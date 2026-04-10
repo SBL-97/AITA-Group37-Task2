@@ -1,0 +1,191 @@
+doc_id,outcomes_pred
+10070173,eye symptoms; headache; non-nasal adverse events; quality of life
+10390665,clinically serious adverse events; complete response; post-operative vomiting
+10475150,GH secretion; Urinary excretion; urinary excretion of melatonin
+10578479,"serum estrone, estradiol, sex hormone-binding globulin, dehydroepiandrosterone sulfate, prolactin, or progesterone concentrations; serum sex hormones, or urinary estrogen metabolite ratio; sex hormone metabolism; urinary estrogen metabolites"
+10589810,Clinical parameters; mean BOP; probing (BOP) and probing pocket depth (PPD)
+10752495,Prediction of creatinine clearance from serum creatinine
+10763172,efficacy; wound healing
+10764172,NK cell activity; immune response; long-lasting analgesic effects; pain score; plasma cortisol levels; postoperative pain score; side effects
+10912743,Ambulatory SBP and DBP; BP control; blood pressure (BP) control; clinic SBP and DBP; clinic and ambulatory blood pressure; clinic and ambulatory systolic (SBP) and diastolic (DBP) BP
+10934569,"measures of intelligence, visual-spatial skills, language, and academics, though not adaptive functioning or behavior problems"
+10940525,mean flea counts; serious adverse events
+11099086,Overall bacteriologic eradication; adverse events
+11229858,
+1131298,serum cholesterol and plasma fibrinogen and decreases in coagulation time and fibrinolytic activity
+11317090,"HAQ, PQOL) health-related quality of life; Quality of Well-Being Scale (QWB) and Current Health Desirability Rating (CHDR); arthritis-specific Health Assessment Questionnaire (HAQ), Center for Epidemiologic Studies-Depression Scale (CES-D), and Perceived Quality of Life Scale"
+11381289,blood pressure; cardiovascular events
+11401641,IOP; IOP reduction; intraocular pressure (IOP) of switching; ocular hypertension where IOP
+11454878,Severe hematologic toxicity; growth factor or blood product utilization; overall progression-free survival rates; overall response rates; overall survival; progression-free survival
+11495215,Heart rate; blood pressure; cardiovascular reactivity; cardiovascular reactivity to stress; heart rate and diastolic blood pressure reactivity to stress; smoking status
+11642083,Left ventricular systolic function; acute myocardial infarction; arrhythmia; arrhythmia and clinical symptoms; end systolic and diastolic volumes of the left ventricle; systolic function
+11737955,oxidative stress; plasma concentrations of alpha-tocopherol
+11750293,
+11829043,C-STAI score; WHOQoL score; anxiety level and self-reported quality of life (QoL); decrease state anxiety; quality of life
+11891832,"Mean change of quantitative muscle strength testing sum scores; Quantitative muscle strength testing sum scores; Serum creatine kinase activity; manual muscle testing sum scores, activity scale scores"
+12139812,
+12477021,AT550 NCT with contact applanation tonometry (AT); level of accuracy for measurements of intra-ocular pressure; readings of IOP
+12576806,Stent related symptoms; incidence of urinary tract infections; symptom based questionnaire
+12586799,5-year overall survival rates; 5-year progression-free survival rates; Survival analysis; treatment-related deaths; tumor relapse
+12595499,
+12709693,Aldrete scale and a Modified Post Anesthesia Discharge Scoring; Cardiorespiratory parameters and bispectral index; Numerical Pain Rating Scale (NRS); recovery level and return of psychomotor efficiency; average pain intensity score; maximum MPADS score; mean arterial pressure and heart rate and signs of respiratory depression; quality of the analgesia
+1286547,PF4 plasma levels; Stimulated platelet thromboxane formation; plasma levels of platelet factor 4 and aggregation responses to collagen and ADP
+12960652,Epigastric impedance; Short-term phasic activity; gastric emptying time and gastric phasic activity
+1459268,"occurrence of spontaneous luteinizing hormone (LH) surges; ovulation induction, fertilization, and pregnancy rates"
+14679127,Non-haematological toxicity; median survival; median time to progression
+14739125,Total plasma cholesterol; low-density lipoprotein cholesterol; nonHDL plasma fraction; plasma drug levels with inhibition (EC50=43 nM)
+14763035,"Systolic and diastolic BP; body weight, BP; large-artery compliance and arterial wave reflections [pulse wave velocity (PWV) and augmentation index (AI) application tonometry] and cardiac echocardiography; serum creatinine, electrolytes, complete blood cell counts, urine volume, drainage volume, and weekly creatinine clearance; target blood pressure (BP)"
+15014018,OS benefit; relapse and response; relapse-free survival; survival
+15133359,Time to successful catheterization of CS; Total contrast dye volume to search and engage the CS ostium
+15193668,children's attitudes and behavioral intentions
+15358868,visual discrimination ability; visual search performance
+15848261,Gait velocity; time between stroke and the beginning of walking
+15854186,overall unpleasantness of the experience were primarily pain experienced and secondarily unpleasantness of taste; pain; pain and discomfort; record pain; sensation of bad taste; unpleasantness of taste and overall discomfort experienced.
+15858959,duration of diarrhoea; duration of hospital stay
+16167234,"Nitrogen balance; cumulative nitrogen balance; cumulative postoperative fatigue scores; nutritional status; postoperative fatigue; postoperative fatigue and nutritional status; postoperative fatigue score; serum total protein; serum total protein, albumin, prealbumin, transferrin, retinol binding protein and postoperative fatigue score"
+16295154,"measures of "" impact of event "" and "" perceived stress """
+16427787,brain activity; circadian sleep regulation; fatigue inducing effect; homeostatic sleep need.; subjective measurements of fatigue
+16505427,"Toxicities, including thromboembolism; g/dL hemoglobin (Hb) increment; global QOL improvement; global quality of life (QOL); mean end-of-study Hb levels; overall survival; so end-of-study QOL"
+1669598,local important adverse reactions; no systemic side effects; peak expiratory flow (PEF) -derived parameters; symptoms score
+17293018,
+17321989,Adverse events; frequency of infection
+17616069,comparsion of values of red blood count recovered
+1780092,effectiveness and tolerability
+17897478,"airway responsiveness; airway responsiveness, symptom control; change in other sputum markers of airway inflammation; induced sputum inflammatory cells; lung function; neutrophil, eosinophil, macrophage, lymphocyte, and epithelial cell levels; sputum eosinophils; symptom control and lung function"
+18077611,frequencies of injection-site AEs; safety; safety profiles; serious AEs; systemic AEs
+18189160,adverse events; liver enzymes and gastrointestinal events
+18229990,expressive language gains
+18337284,positive cultures; relapses); resolution of symptoms
+18503531,facial expression and body-posture recognition measures.
+18544974,"amount of bifidobacteria; amount of lactobacilli or LGG, nor did gastrointestinal symptoms, defecation frequency, consistency of stools or ease of defecation differ; ingestion of LGG + GOS"
+18773733,perceived loudness of auditory tones; tone at detection threshold
+18783504,"MEASUREMENTS Ecological momentary assessment ratings of smoking behavior and putative mediators; motivation to quit and self-efficacy; point-prevalence abstinence; post-quit abstinence, including withdrawal distress, cigarette craving, positive affect and subjective reactions to cigarettes smoked; short-term abstinence; specificity of bupropion SR effects; withdrawal distress or affecting the subjective effects"
+18845996,optimal threshold for sensitivity; precycle risk score; specificity
+18958161,
+18975051,ICA attenuation without intracavernous attenuation gain
+19096921,
+19108790,Extrapyramidal symptoms; prevalence of PONV
+19159999,RP attack rate; almost adverse events; efficacy and safety of nifedipine sustained release (nifedipine SR); serious adverse events
+19301724,VAS scores; duration of hospital stay; satisfaction; side effects
+19376304,hemorrhagic) or systemic embolism
+1963383,Hematologic toxicities; median survival; overall response rate (CR+PR); response rate
+1968178,Systolic blood pressure; blood pressure
+19708562,dynamics of serum LF and TNF-alpha levels; lactoferrin (LF) and tumour necrosis factor-alpha (TNF-alpha); severity of ulceration process
+19727232,IQ scores; clinical manifestations and scores of ABC and IQ; decreasing level of ABC scores; decreasing level of both ABC scores
+19802506,"Additional changes in BMD and bone turnover; BMD; BMD in postmenopausal BCS at risk for bone loss; Serum NTx; bone mineral density (BMD); bone turnover; least maintain) BMD; lose BMD; serum NTx; total hip; total hip, femoral neck, L1-L4 spine, total radius"
+20147856,Median survival time; Median time to progression; response rate; response rate and survival data; response rates; toxicity profile
+20189026,Major adverse coronary events; Median salvage index; death; heart failure; mean salvage index
+20226474,Mild bleeding; moderate bleeding; severe bleeding
+20509069,Pain; Subjective pain ratings; pain intensity; pain unpleasantness
+20560622,"Serum and urine biochemical parameters related to calcium status and bone metabolism; accordance, calcium bioavailability; efficient bone turnover"
+20618920,
+2066441,"plaque index, gingival index, bleeding on probing, probing depth, probing attachment level and microscopic counts; rate of bleeding on pocket probing and an increased probing attachment gain"
+20739054,alanine aminotransferase concentration; serious bleeding events; total bilirubin
+20804366,"Symbolic Play Test; performance, and practical reasoning of Griffiths Mental Developmental Scale; social, affectual, language, and total score of Ritvo-Freeman Real Life Scale; (3) Comprehension Language age in the Reynell Language Developmental Scale; and (4) Total Score"
+2088233,"gingival fluid flow, probing depths, bleeding on probing and suppuration; radiographic attachment loss"
+20943715,
+21029638,"positive factor, negative factor and total scores of PANSS; severe adverse effect; total scores of PANSS; total scores of SDSS"
+21106663,Time-varying smoking abstinence predicts lower depressive symptoms; depressive symptoms; intentional smoking abstinence exacerbates depressive symptoms; smoking and depression
+21170734,"Lactate levels; Serum lactate levels; cortisol and glucose levels; serum levels of cholesterol; total protein, lactate dehydrogenase"
+21211686,"HDL-C; Regression of Intravascular Sonographic Coronary Obstruction Prospective Evaluation; atheroma progression; biochemical parameters; glycated hemoglobin; high-density lipoprotein cholesterol (HDL-C) and reductions in glycated hemoglobin, triglycerides; low-density lipoprotein cholesterol; percent atheroma volume; percent atheroma volume and triglycerides; percent atheroma volume, and total atheroma volume; progression of coronary atherosclerosis; total atheroma volume; triglyceride/HDL-C; triglyceride/HDL-C ratio; triglyceride/HDL-C ratio correlated with delayed atheroma progression; triglyceride/high-density lipoprotein cholesterol ratio"
+21393467,total change)
+21491990,clinical attachment level (CAL) gain
+21669557,HRV and ST-segment values; Personal fine PM [aerodynamic diameter ≤ 2.5 μm (PM₂.₅] exposures; ST-segment depression; household wood smoke exposures affect ventricular repolarization and potentially cardiovascular health; increase heart rate variability (HRV); occurrence of nonspecific ST-segment depression
+21718094,"Nonetheless, improved glycemic control; glycosylated hemoglobin (HbA1c), continuous glucose sensor data; insulin utilization, anthropometric measures, and patient satisfaction; mean HbA1c); time spent with normoglycemia"
+21866656,pregnancy rate; serum CA125 level; serum EMAb negative conversion rate; serum endometrium antibody (EMAb) and cancer antigen 125 (CA125) levels
+2188766,exercise performance; indices of left ventricular systolic function; left ventricular function; resting heart rate
+21896676,
+21914768,Anxiety levels; TC) information; perceived message benefit; testicular self-examination; TSE) anxiety
+21924760,Several anticoagulation quality measures; Time below range for stroke and time above range for bleeding; predicting stroke and bleeding; prevent stroke and bleeding; stroke or bleeding
+21975269,rates of HIV-1 acquisition
+21982657,cardiovascular effects of skeletal myoblast implantation by catheter delivery; frequency of serious adverse events (safety) and changes in 6-minute walk test and Minnesota Living With HF score; functional capacity; safety
+22154769,Immunogenicity; VZV glycoprotein enzyme-linked immunosorbent antibody; peak ELISPOT response; serious vaccine-related AEs
+2223363,duration of induction; incidence of apnoea; systolic and diastolic arterial pressure
+2224060,prolongation of remission
+22271197,"inter-individual equivalence and comparability, and reliability"
+22341427,Lower pre-Norwood right ventricular fractional area change; Mortality risk; intermediate-term mortality include lower socioeconomic status; lower socioeconomic status; obstructed pulmonary venous return
+22416755,
+22420121,Autistic Behavior Checklist (ABC); Peabody Picture Vocabulary Test (PPVT); Wechsler Intelligence Scale (WISC-R or WAIS-III); cognitive level and autistic symptoms
+22435114,"Clinician Severity Ratings, diagnostic status, and clinician ratings of global improvement"
+22538329,Clinical characteristics and disease progression; extensive and diffuse coronary atherosclerosis and accelerated disease progression despite use of medical therapies; low-density lipoprotein cholesterol and blood pressure lowering therapy slowed disease progression; myocardial infarction; on-treatment high-density lipoprotein cholesterol levels; percent atheroma volume (PAV); spotty calcification; total atheroma volume
+22646975,Inflammatory Bowel Disease (IBD) impacts quality of life (QoL); QoL; Visual Analogue Scale assessed pain; anxiety levels; depression; pain and stress; stress and mood
+22744141,
+22865017,"Depression, functioning, perceived quality of care, utilization, and costs; PTSD symptom severity; symptoms or functioning"
+22881991,improved performance; recognition of expressions of anger
+22897461,"hypotriglyceridemic capacity; insulin resistance by RF; lipoprotein subfraction profile; mean LDL size; triglycerides (TG), decreased high-density lipoprotein cholesterol (HDL-C) levels and a predominance of small dense low density lipoproteins"
+22956006,"change of QOL; global QOL; insomnia, anxiety/agitation; intensity of vomiting, nausea, or time to onset of vomiting; patient preference, QOL, or symptoms regardless"
+23021296,time of sun exposure and physical activity
+23103798,average number of wet nights; bladder capacity; detrusor overactivity; full response; number of wet nights and urodynamic parameters
+23114870,Hb loss; Surgical time; blood loss; knee swelling and pain; mean drainage of blood
+23356250,admission rate; mean hematocrit
+23357440,anxiety symptoms
+23392542,"AGE- peptides; glucose, HbA1c, triglyceride, cholesterol; plasma AGE-peptides"
+23417625,error rates; error rates for facial emotion labeling (DANVA2); perception of facial emotions and quality of life (QoL)
+23549581,"Brief Pain Inventory-Short Form "" average pain "" item; Pain severity; average pain; average pain score; average pain severity; pain; pain of any amount.; pain, function; quality of life"
+23838728,no implementation quality variables accounted for variance in child outcomes
+23849147,
+23985254,Adverse Events; Adverse events; acute AEs; diarrhea; risk for severe diarrhea
+24075141,inattention and hyperactivity behaviours; symptom presentation
+24080592,"Plasma lipids, glucose homeostasis markers and hemostasic variables; plasma levels/activity of fibrinogen; plasminogen activator inhibitor-1; prothrombin and partial thromboplastin times; triglyceride levels and peripheral artery sclerosis; von Willebrand factor levels"
+24317958,amount of remaining sealer in the root canal irregularities; root canal surface
+24350813,"body mass index; efficacy; efficacy scale scores; irritability and related behaviors; long-term safety; mean weight; pyrexia, and upper respiratory tract infection; sleep visual analog scale; somnolence and fatigue; treating irritability and related behaviors; weight and vomiting"
+24451919,Medial Prefrontal Cortex Activation
+24515505,aggregate non-health care costs; health care costs; out-of-pocket costs or spend more time on caregiving activities; school costs
+24660757,
+24726342,"acute bronchodilator effects from specific airway resistance changes; dynamic hyperinflation, gas trapping; intrathoracic gas volume (ΔITGV); lowering peripheral airway smooth muscle tone; lung mechanics and dyspnea; residual volume (ΔRV); specific airway resistance changes"
+24803369,
+24960665,Positive predictive values
+24989854,
+25068497,
+25369243,Aberrant Behavior Checklist (ABC); Children's Social Behavior Questionnaire; social functioning
+25479285,
+25784723,peak velocity; regional ventricular performance; right ventricle free wall peak velocity E; tissue-Doppler imaging parameters
+25885649,GT3X) physical activity (PA) levels; IPAQ-VO2 max and GT3X-VO2 max; International Physical Activity Questionnaire; PA measurement and VO2max test; maximal oxygen uptake test (VO2max); time spent engaged in sedentary behaviours (Z=-6.80
+25886492,FOBT return; FOBT return by TPDS and NTPDS
+25898782,least fatigue and pain
+25931290,"behavioral distress, pain intensity, and sensory discomfort; measures of physiological anxiety; pain and sensory discomfort; physiological anxiety"
+25950425,"Hemodynamic parameters; Incidence of nausea; Time to first defecation and mobilization; VAS scores; adverse effects; analgesic consumption; patients' satisfaction, mobilization, time to first defecation and time to discharge; postoperative VAS scores; postoperative morphine requirement; side effects; time to mobilization, time to first defecation, time to discharge and patients' satisfaction; visual analogue scale (VAS) scores"
+26210844,"Mean scores; RITA-T scores; sensitivity, specificity; specificity of 0.84, and positive predictive value"
+26278470,OCD symptom reduction; Yale-Brown Obsessive Compulsive Scale; anxiety; depressive symptoms; quality of life
+2678230,myocardial perfusion and myocardial function; myocardial perfusion measured
+2803397,"glucose, lactate and free glycerol; mean arterial pressure (MAP) and heart rate; plasma levels of epinephrine; plasma levels of epinephrine, norepinephrine, glucose, lactate and free glycerol"
+2908133,Anxiety; Italian HAM-A scale; Tolerability; basal value; percentage of responders; severe headache; total Hamilton Anxiety Rating Scale
+3067745,overall mean IOP
+3074300,"Body mass index, fasting plasma insulin; Mean run-in postprandial blood glucose concentrations; hepatic and renal function parameters; lipid profile; serum electrolyte pattern, uric acid, white blood count; systolic and diastolic blood pressure"
+3081600,"Antidepressant response; Anxiety Scales; Clinical Global Severity and Improvement Ratings, and the Zung Self-Rating Depression Scale; Hamilton Depression; appetite and weight gain; dry mouth, constipation, sleepiness, and tiredness; incidence of anticholinergic side effects"
+3534803,postoperative deep venous thrombosis (DVT); venous endothelial damage
+361799,
+384815,rate of height gain; rate of weight gain
+3919804,rapid fall in blood glucose concentration
+4919024,
+6418441,improving asthmatic symptoms; morning peak expiratory flow rate value; quality of sleep
+6421395,high density lipoprotein subfraction two; low density lipoprotein fraction; mild regular physical exercise favourably influences cholesterol distribution in serum lipoproteins; plasma 6-keto-prostaglandin F1 alpha concentration; plasma 6-keto-prostaglandin F1 alpha concentration and decreased serum thromboxane B2 concentration; serum HDL2 cholesterol concentration; serum cholesterol concentrations
+6920252,Accelerated production of surface active material (SAM) phospholipids; alveolar lavage fluid disaturated phosphatidylcholine (DPC); alveolar lavage fluid phospholipid; greater distensibility
+6938020,Toxicity and early death
+6951573,
+6989377,P/S ratio; cholesterol esters and triglycerides; degree of dietary adherence; plasma lipid esters; proportion of linoleate
+7017018,
+7598243,efficacy; free of side effects; nausea and vomiting; profound systolic hypotension
+7707420,comprehension
+7808649,efficacy; pain intensity; safety
+7814711,
+7827398,
+7831628,mean difference
+7844976,
+7853069,"Patient outcomes; global anxiety scores, functioning and well-being; patient's severity of psychological distress; reporting symptoms and functioning status"
+8519720,"FEV1; FEV1 continued to decline; FVC values; Visual analog scale pain scores; forced expiratory volume in 1 second (FEV1), and forced vital capacity (FVC); pain; pain scores; post-thoracotomy analgesia; pulmonary function; resting and cough pain"
+8726604,"length of stay, and discharge times"
+8771302,hemodynamic performance regardless of valve orientation; valve's hemodynamic performance
+8779382,Outward catheter migration
+8911222,Autism Behavior Checklist scores; Plasma total and free tryptophan levels; global exacerbation of symptoms; global worsening of behavioral symptoms; social relatedness or repetitive thoughts and behavior
+8911223,"adverse cardiovascular events, or seizures; autistic behavior; especially language usage; maladaptive behavior; repetitive thoughts and behavior; social relatedness"
+8913901,Methodology of serial ECG classification using an adaptation of the NOVACODE for Q wave myocardial infarction; St. Louis University program; incidence of grade 1 MC Q wave progressions
+8916620,
+8989009,Hypotension; degree of hypotension or need for vasopressor therapy; incidence of hypotension; systolic BP readings; systolic blood pressure (BP)
+9229602,subjective and objective ocular symptoms effective
+9394106,"Endotoxin concentration; Endotoxin concentration, liver function tests; Mean initial endotoxin concentrations; endotoxin concentration or liver function tests; mean endotoxin concentration"
+9481998,TMJ pain; pain relieving effect; post-treatment VAS; post-treatment pain levels and pain sensitivity; relief of temporomandibular joint pain; temporomandibular (TMJ) joint pain; visual analogue scales (VAS) and pressure pain threshold
+9573502,"3) Plasma norepinephrine and aldosterone levels; Renal hemodynamics; Systemic hemodynamic, neurohormonal, and renal effects; Urinary volume losses; cardiac index; cardiac output without increasing heart rate; cardiac preload and systemic vascular resistance; hBNP decreased plasma norepinephrine; heart rate; predominant hemodynamic effects; pulmonary capillary wedge pressure; right atrial pressure; systemic vascular resistance"
+9695300,"Heart rate; Oxygen saturation; Respiratory rate; heart rate, oxygen saturation and presence of cyanosis; respiratory score"
+9730996,"24-h sputum volume, sputum leukocyte density, bacterial densities, and concentrations of interleukin (IL) -1beta, IL-8, tumor necrosis factor-alpha (TNF-alpha), and leukotriene B4 (LTB4); adverse reactions; sputum leukocyte density and IL-1beta, IL-8"
+9816035,Rates of responses; Toxicity; hematological toxicity; hematotoxicity; leukopenia grade 3/4; myelosuppression and response; no leukopenia; response rate; steep dose-response curve; thrombocytopenia grade 3/4

@@ -1,4 +1,3 @@
-
 # Large files
 *.npy
 *.sh
@@ -19,4 +18,4 @@ __pycache__/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbbs.db

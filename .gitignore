@@ -19,3 +19,13 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Old evaluation files — replaced by new naming convention
+outputs/predictions_zero_shot_qwen.csv
+outputs/predictions_few_shot_qwen.csv
+outputs/results_axis2A_zeroshot_qwen.csv
+outputs/results_axis2A_fewshot_qwen.csv
+outputs/results_axis2A_zeroshot_flant5.csv
+outputs/results_axis2A_fewshot_flant5.csv
+outputs/axis2a_summary.csv
+outputs/axis2_results.png

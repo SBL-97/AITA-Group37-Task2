@@ -1,0 +1,7 @@
+approach,field,precision,recall,f1,coverage
+axis2A_Zero_Shot_qwen,participants,0.3456,0.1419,0.1778,0.9157
+axis2A_Zero_Shot_qwen,interventions,0.4863,0.1368,0.1926,0.9101
+axis2A_Zero_Shot_qwen,outcomes,0.4528,0.2598,0.2811,0.8989
+axis2A_Few_Shot_qwen,participants,0.3166,0.1168,0.1547,0.9944
+axis2A_Few_Shot_qwen,interventions,0.5,0.1207,0.1727,0.9775
+axis2A_Few_Shot_qwen,outcomes,0.3795,0.2679,0.2421,0.9944

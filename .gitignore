@@ -2,10 +2,6 @@
 *.npy
 *.sh
 
-# Large CSVs
-sentence_records_df.csv
-sentence_test_records_df.csv
-
 # Virtual environments
 .venv/
 venv/
@@ -18,4 +14,4 @@ __pycache__/
 
 # OS files
 .DS_Store
-Thumbbs.db
+Thumbs.db

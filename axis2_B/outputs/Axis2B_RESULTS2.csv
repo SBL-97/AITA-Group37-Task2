@@ -1,0 +1,192 @@
+doc_id,participants_pred,interventions_pred,outcomes_pred
+10036953,99 patients,two 1-week low-dose triple-therapy drug regimens; short-term low-dose triple therapy; antisecretory drugs; drug combination; clarithromycin,cure rate; CI 84-99; CI 79-97
+10037531,,,
+10052279,chronic obstructive pulmonary disease; Forty-five patients,coronary artery bypass graft surgery,Peak expiratory flow rate
+10071998,,45 mg,Visual analog scale; pain scores
+10075386,hypertensive patients,,mean 24-h blood pressure; significant increase; mean 24-h heart rate
+10077140,Patients; patients,,pulse rate; changes
+10078672,healthy volunteers,placebo-controlled; infusions; 64 ng/ml,40:1 potency ratio; 20:1 ratio
+10078673,patient-controlled epidural analgesia,lower abdominal surgery,Pain scores
+10080319,implant treatment,implant treatment,
+10084579,,,17-OHP levels
+10089089,neutropenic patients; standard regimen,1.5 mg/kg b.i.d.; tobramycin,antibiotic change
+10091821,"6,781 patients",,Higher mean arterial pressure; total mortality relative risk; cardiovascular mortality; higher heart rate
+10093945,treatment; children; patients,two divided doses; 10 mg/kg/day; 20 mg/kg/day; treatment,mean difference
+10094243,Twenty-nine patients; ten patients,two previous infusion studies; placebo,heart rate; changes
+10097996,pervasive developmental disorders; normal children; new instrument,,Wechsler Intelligence Scale; lower TOM test scores
+10100592,treatment; patients,multidrug combined cancer chemotherapy; slow intravenous injection; granisetron injection; 30-min infusion; treatment,
+10148879,Eighty healthy women; patient-controlled,,umbilical serum levels; administration
+10155556,Churg-Strauss syndrome; first-line treatment; effective treatment; 236 patients; CSS patients,short-term steroid therapy; immunosuppressive therapy; first-line treatment; anti-viral therapy,poor seroconversion rate; subsequent survival
+10172265,,,mortality
+10188144,4-week treatment period; 247 patients,placebo-controlled comparison; 1-week placebo run-in period; 4-week treatment period; mizolastine 10 mg,visual analogue score
+10190267,Rett syndrome; 35 subjects,Eight-week treatment phases; placebo-controlled,Hand Apraxia Scale; change
+10194485,severe post-thrombotic venous disease; healthy volunteers; patients,,femoral vein levels; mean peak velocity
+10195003,392 patients,low dose intravenous urography; lower dose,
+10197379,PATIENTS Individuals free; tuberculosis,placebo,risk ratio
+10200837,METHOD Twelve children; experimental group,placebo group,Conners Parent Rating Scale; significant reduction
+10201101,,,Intermediate accuracy scores; levels
+10203382,Mycobacterium avium complex bacteremia; two alternative therapeutic regimens; MAC treatment trial; AIDS patients,vitro drug susceptibility; therapeutic drug use; MAC treatment trial,poor survival outcomes; Karnofsky score; mortality; decrease; level
+10207709,,one therapy session,cooperation
+10208073,30 pediatric cancer patients; pain management,,
+10209728,patients,20 mg three times,Changes
+10211492,115 patients,local injection; Local injection,significant reduction; incidence
+10213233,postoperative endophthalmitis; random assignment; 420 EVS patients; 201 patients,,rate
+10213554,,,
+10223244,patients,,
+10224577,20 consecutive patients,heparin treatment; infusion,time since operation
+10225743,,,
+10230191,METHOD Twenty-four children; young children,1.0 mg/kg; placebo,
+10235220,three treatment arms; patients,total dose,relapse rate
+10337083,,,Effective response rates
+10337433,,,increased hyperemia
+10337657,patients; 259 men,,
+10337847,,,
+10338217,patients undergoing BMT; 66 patients,,GLN administration; incidence; duration
+10348763,malignant disease; 15 children; 20 children,,creatinine concentrations; significant increases; AmB administration
+10352330,adult respiratory distress syndrome; 132 patients,chemotherapy,incidence; duration
+10352397,24 obese subjects; 22 women,Low-dose growth hormone treatment; placebo-controlled trial; vehicle injection; low-dose GH,1.6-fold increase; further increase; insulin levels
+10355394,low-risk patients; fifty patients,,CABG reoperations; less reoperation
+10356632,attention-related impairment,,Wechsler Memory Scale Attention/Concentration index
+10360656,Forty-nine chemotherapy-naive patients,monotherapy; 750 mg,survival time; response rate
+10361382,,placebos; 0.8 mg; 180 mg,naloxone administration
+10361648,two experimental videotapes; female CABG patients,coronary bypass surgery,frequent moderate exercise
+10374155,childhood cataract; management,,
+10379020,postmenstrual age; supplementation; sham treatment; regimen,sham treatment; lower doses,mean birth weight
+10380161,,,small obstructive changes; NO2-induced changes; decrease
+10382082,,,incidence
+10382134,22 autistic children; patients,,
+10385063,osteoporosis; bone disease; 76 patients; cirrhosis; 50 women,treatment; 0.5 mg,mean annual change
+10390407,asthmatic patients,placebo-controlled design; cumulative doses,higher tremor score; heart rate
+10402369,Adjuvant L-arginine treatment; poor responder patients; poor responder women; 34 patients,Adjuvant L-arginine treatment,follicular fluid concentrations; lower cancellation rate; nitrite/nitrate
+10404444,paediatric asthma patients; Royal Children; 60 patients,,standard level; rate
+10408075,,,level
+10410152,acute myeloid leukemia,remission induction chemotherapy; 125 mg/body,complete inhibition rate
+10414756,PATIENTS Twenty-six patients; elements; 22 men; women,,significant changes; critical changes; heart rate
+10424316,subjective assessments; hypertensive patients; healthy volunteers,captopril 25 mg; enalapril; placebo; 12.5 mg; 10 mg,administration
+10429005,,pharyngeal infusion; 0.4 mL,significant reduction; oxygen saturation; heart rate
+10439497,PARTICIPANTS Hypertensive patients; hypercholesterolaemic patients; Treatment,treatment; captopril; atenolol; drug,concurrent administration
+10439763,128 women,Preoperative small-dose ketamine; 0.15 mg/kg ketamine; small dose; surgery,visual analog scale pain scores
+10441604,treatment,doses sufficient; two drugs; treatment,P=0.67; P=1.00
+10442506,12 patients; 24 patients,amlodipine; enalapril; placebo; 20 mg,Meanwhile enalapril; ratio MDA-basal
+10443725,benign prostatic enlargement; twenty-one men; improvement; patients; Patients,mg finasteride; treatment; placebo; therapy,decreases
+10448447,women,other treatment variables,strategies liable
+10463847,childhood severe cryptogenic/idiopathic generalised epilepsy; 72 children,,slow wave foci
+10470636,PATIENTS 21 ASA physical status; III patients,10 mg,mean intraabdominal pressure; mean bladder compliance; increase
+10476617,treatment groups; pregnant women,400 mg/day; placebo,mean plasma concentration; administration; incidence
+10482855,,,
+10489959,Assessment,,
+10492627,evaluable patients; Patients younger; mental condition,pre-operative chemotherapy; surgery,curative resectability rate
+10499652,undergone preoperative heparin treatment; Thirty patients,continuous infusion; two doses; same dose; mg/kg/h,C. Purified AT-III administration; two different strategies
+10506815,95 subjects,,change
+10509459,,,
+10517189,two antibiotic regimens; patient tolerability; Forty patients; brucellosis; treatment,doxycycline 200 mg/day; rifampicin 600 mg/day; rifampicin treatment,mean+/-SD; P=0.044; rates
+10517426,experimental human influenza; 117 healthy adult volunteers; treatment,same drug; treatment; placebo; 100 mg; 200 mg,nasal proinflammatory cytokine levels; symptom scores; score-hours; duration
+10525558,forty four patients; treatment,bronchodilator therapy; treatment; placebo,peak expiratory flow rate; different levels
+10539493,,,
+10550137,Granulocyte-macrophage colony-stimulating factor treatment; 20 women; PATIENTS,Granulocyte-macrophage colony-stimulating factor treatment; cyclophosphamide chemotherapy; adjuvant chemotherapy; placebo-controlled,higher mean neutrophil count; mean +/- SD; duration
+10554799,patients; Adults,itraconazole versus fluconazole; 100 mg fluconazole suspension; itraconazole oral solution; mg/kg/d itraconazole; chemotherapy,
+10555930,SUBJECTS Eight male volunteers,intravenous loading dose; 8-hour infusion; treatment days; treatments; placebo,p=0.005
+10557909,cardiac surgery patients,cardiac surgery patients,
+10560780,hypertensive young urban black men,,
+10563544,normal subjects; 17 subjects; non-smokers; patients,placebo solution,reduction; rate
+10566623,twenty-nine adult patients,,recombinant human TSH administration; serum Tg level; levels
+10568568,ten healthy volunteers; 20 patients; syndrome,placebo,Increases; Changes
+10575594,Thirty postmenopausal women,600 mg ipriflavone,decrease; increase
+10588965,pervasive developmental disorder; 56 children; 60 children; treatment,placebo-controlled trial; single intravenous dose; intravenous infusion; saline placebo; single dose,mean total score; mean difference; mean decreases; P=0.11; scores
+10592853,841 women,,
+10593347,hypercholesterolemic men; women,placebo spread,LDL-C levels; incidence
+10594393,ulcerative colitis; 16 patients,exogenous bile acid therapy; placebo-controlled trial; two divided doses; 10 mg/kg,functional score
+10594396,severe reflux oesophagitis; 133 patients,Standard-dose lansoprazole; standard-dose lansoprazole; high-dose ranitidine; 30 mg o.d,patient-rated overall symptom severity
+10599355,systemic sclerosis; 41 patients,Enalapril; 10 mg/day; enalapril; placebo,mean values; changes
+10602739,chronic osteomyelitis; treatment,treatment,
+10606880,,therapeutic doses; s.c. treatment; infusion,pre-injection level; baseline level; peak levels; Peak levels
+10607234,chronic active hepatitis; 10 Chinese patients; Caucasian patients; chronic hepatitis; serum hepatitis,interferon-alpha therapy; 10 000 pg ml-1; treatment,significant increase; second increase; CD4/CD8 ratios
+10618526,recombinant Hepatitis; 200 children,,serum HBs-Ag concentrations; anti-HBsAg concentrations; antibody concentration; accelerated schedule
+10619912,patients,,whereas TAG-72 concentration
+10624759,"ramp-incremental cycle ergometry; 8,000 subjects",,physical activity scores
+10632537,patients,transcatheter arterial infusion; initial treatment; initial therapy; 100 mg,tumor regression rate; reductions
+10634835,neonatal respiratory distress syndrome; patient triggered,,conventional fast rate ventilation; incidence
+10634838,,0.5-1 ml/h,complication incidence; mean difference -11.5; mean difference -22.1; mean difference -11.2; mean difference -22.4
+10636373,hypertensive patients; treatment; Treatment,treatment; Treatment,
+10637238,ER-positive patients; 231 patients,chemohormonal therapy; first-line therapy; front-line therapy; induction therapy; chemotherapy,overall survival; response rates
+10643677,obese subjects,,carbohydrate oxidation; substrate utilization; increase; changes; means
+10649829,adult autistic disorder; Eleven adult patients,single dose sumatriptan; placebo challenges; mg SQ,YBOCS-compulsion score
+10651597,PATIENTS 83 patients; osteoarthritis; treatment; 22 women; 27 women,manual physical therapy; treatment group; manual therapy,baseline WOMAC scores
+10660161,stentless versus conventional aortic valve replacement,,reduction
+10661479,20 adult enfeebled hemodialysis patients; growth hormone treatment,single daily subcutaneous injection; growth hormone treatment; placebo injections,insignificant decrease; significant changes
+10663363,established postmenopausal osteoporosis; established osteoporosis; postmenopausal women; Postmenopausal women; subjects,elemental calcium 1000 mg/day; placebo,
+10665129,stable chronic obstuctive pulmonary disease; within-patient; 27 patients,puffs placebo; puff placebo,single administration; Mean peak FEV1 change; peak changes
+10671339,stem cell transplant patients; 117 patients,,response rate
+10674229,,,plasma AA levels; basal levels
+10674680,Assessment; Patients,,
+10674681,primaquine regimens; treatments regimens; Patients,"single dose; high dose; 1,500 mg; tablets; 200 mg",Cure rates
+10678548,chronic renal disease; patients,valsartan 160 mg; valsartan 80 mg; benazepril; therapy; 10 mg,largest decrease; mean change; P= 0.0006; P= 0.0008; P= 0.030
+10682031,documented nosocomial pneumonia; ventilated patients,aerosolized tobramycin; tobramycin aerosols; mg/kg/day; placebo,
+10683506,healthy subjects; six women; six men,,heart rate frequency; significant decrease; significant increase; significant changes
+10685169,topical treatment,four treatment groups; topical treatment,two concentrations
+10685722,446 hypertensive patients,fixed low-dose perindopril/indapamide combination; low dose combination perindopril; mg/indapamide 0.625 mg; 4-week placebo run-in; 50 mg,greater decrease; changes; sDBP
+10685817,26 patients; Treatment,dose-dependent; ml saline; Treatment,significant changes; Vernon-Mior scale; reduction
+10690138,,first injection,median duration; incidence
+10690697,Sixty-one subjects; MEASUREMENTS; assessment; enrolment,,Modified Falls Efficacy Scale; Falls Efficacy Scales
+10693733,children,,
+10703628,occupational irritant contact dermatitis,,stratum corneum hydration; preparations
+10706930,hormone replacement therapy; 118 postmenopausal women; coronary artery disease,hormone replacement therapy; treatment,nonsignificant changes; significant decreases; questionable increase; levels
+10707032,non-diabetic obese subjects; hypertriglyceridaemia; metformin treatment; non-diabetic men,metformin treatment; 850 mg bid; placebo,Tissue plasminogen activator antigen concentration; plasma triglyceride concentration; concentrations; change
+10715372,,,decrease
+10719133,23 essential hypertensive out-patients; biofeedback treatment,Blood pressure biofeedback treatment,respiratory rates
+10720081,Thirteen age-matched healthy volunteers; 10 patients; women,GHRH injection; infusion,ratio
+10726430,,MLSS velocity,1.8 +/- 0.3 mmol.l-1 increase; mean +/- SE; change
+10734271,,,scales
+10735838,120 children,EMLA cream,pain scores
+10735900,high-risk childhood acute lymphoblastic leukemia; 12 patients; 55 patients,chemotherapy dose-intensity; consolidation chemotherapy; high-dose cytarabine,mean +/- 95; Duration
+10741095,different long-term asthma treatments; different asthma treatment; 11 patients; subjects,different long-term asthma treatments; different asthma treatment,symptom score
+10741842,low-income urban children; home environment,,
+10742359,,,less missed opportunities/vaccine administration errors; postintervention knowledge scores
+10754477,childhood brain tumours,standard supramaximal dose; dose-response curves; doses,GH concentrations; P=0.007
+10755175,crossover experimental design; control treatment; 16 children,control treatment,adaptive/social behavior scores; teacher-rated measures; parent-rated measures
+10757250,Twenty healthy subjects; pursuit eye movements; Patients,other psychotropic drugs such; lorazepam 0.5 mg; placebo; 50 mg,
+10757579,paediatric patients; children,Ropivacaine-clonidine combination; subumbilical surgery; caudal injection; ml/kg,Objective pain scale score; duration; P=0.034
+10758987,,,reduction; ratio
+10759619,peptic ulcer disease; volunteers; treatment,roxithromycin 300 mg b.d.; lansoprazole 30 mg b.d.; roxithromycin levels; 20 mg b.d.; omeprazole,
+10768434,45 patients,placebo-PDT interventions; Photodynamic therapy; standard treatment,median relative reduction; p=0.0006; p=0.008
+10770301,449 patients; treatment,treatment; 160 mg,odds ratio=1.13; CI 0.57-2.24
+10770979,Subjects; 2079 men; women,,unadjusted risk ratio; mean; rate
+10778276,,,
+10781855,group A+C meningococcal polysaccharide vaccine; meningococcal conjugate vaccine; Subjects; MenPS; MenC,one dose,meningococcal IgG antibody concentrations; post immunisation reaction rates
+10790473,psychosocial development; three-year-old children,,cumulative durations; scores
+10807619,chronic obstructive pulmonary disease; patients,identical placebo; dose inhaler,Median exacerbation rate; P=0.026; P=0.034
+10808042,adult autistic disorders; 11 adult patients,single dose sumatriptan; placebo challenges; mg SQ,
+10811665,four successive Children; initial CNS involvement; disseminated disease; B-cell leukemia; 462 patients,intrathecal chemotherapy,higher treatment failure rate; relative failure rate; LDH levels greater
+10816058,19 children,paediatric heart surgery,levels; Levels
+10826576,POPULATION Sixty-two patients; treatment,,less analgesics administration
+10832772,Pervasive Developmental Disorder; Thirty-four patients; Fifty-six patients,treatment modality; one injection; injections; placebo,meaningful changes; transient changes
+10832773,,,
+10832774,assessments; patients,,
+10837440,chronic bronchitis; 10 day regimen; 548 patients; treatment,cefdinir 300 mg bd; treatment; 500 mg bd,microbiological eradication rates; clinical cure rates; incidence
+10848655,32 929 subjects; 1161 subjects,clarithromycin 250 mg b.d; tinidazole 500 mg b.d; omeprazole 20 mg b.d.,eradication rate
+10850381,oral mucositis; Patients; patients,CAE chemotherapy; placebo,significant reduction; incidence
+10860330,Sixty-seven subjects,conventional air turbine/bur dental surgery,restoration retention; significant decrease; resin restorations; cavity preparation; discomfort levels
+10861653,pre-core mutant chronic hepatitis; pre-core mutant hepatitis; effective treatment; patients,effective treatment,
+10870534,PARTICIPANTS 111 patients; INTERVENTIONS Management; emergency department; managing patients; primary diagnosis,,complication rates; readmission rates
+10871578,bone marrow transplantation patients,high-dose chemotherapy,gamma-tocopherol concentrations; whereas cystine concentrations; Plasma cysteine concentrations; zinc concentrations; unchanged
+10889149,587 H. pylori-infected subjects,clarithromycin; amoxicillin; omeprazole; placebo,histologic changes; marginal increase; decrease
+10889804,523 overweight subjects,,greater reductions; weight reduction
+10901647,Eleven patients,,
+10902449,Patients,0.8 mg/kg,duration; levels
+10926339,regular pharmacological treatment; 101 adult patients; initial treatment,low dose inhaled steroid; two treatment groups; initial treatment,P=0.10 high; decrease; P=0.02
+10928228,bone mass measurements; osteoporosis; 46 patients,,change; rate
+10934908,,,
+10939601,chemotherapy-naive patients,"chemotherapy-naive patients; 750 mg/m2 iv bolus days; 25 mg/m2 iv bolus days; 2-hr infusion; 2,000 mg/m2",median survival time
+10945514,469 patients; treatment,combination hydrocodone 7.5 mg; combination codeine 30 mg; ibuprofen 200 mg; 1-tablet doses; 2-tablet doses,overall mean daily pain relief score; overall mean number
+10947757,Forty adult patients,minor elective surgery,pre-induction level; surgery levels; decrease
+10957888,Eighty-six male patients; Seventy-eight patients,erythromycin stearate 500 mg; clarithromycin 500 mg; roxithromycin 150 mg,clinical success rates; clinical cure rates
+10960380,ambulatory anterior cruciate ligament repair; Sixty patients; 29 patients; 31 patients,80-mg doses; 60-mg dose; two doses; 80 mg,
+10963640,seventeen anthracycline-naive MBC patients; metastatic breast cancer patients; following regimens; same regimen; treatment,Epirubicin-based chemotherapy; fluorouracil 500 mg/m; epirubicin 100 mg/m; epirubicin 50 mg/m; dose-intensity,ventricular ejection fraction decrease; objective response rate; response duration
+10968308,PARTICIPANTS Patients; case management,,
+10969304,,computer-controlled infusion pump,physostigmine administration; concomitant increases; reductions
+10971307,24 healthy volunteers; healthy subjects,placebo-controlled; single oral doses; 10 mg,highest dose level; administration; heart rate
+10971538,postoperative objective assessment; Forty-seven patients; treatment,treatment; surgery,mean postoperative Snore Index
+10973645,Infertile women; pregnant women; new patients,,stage-of-change; mean delta; rate
+10986219,hepatic encephalopathy; cirrhosis; patients; PATIENTS; Child,placebo,alteration; p=0.02
+10986363,children,,demonstrations
+10992833,,rapacuronium 1.5 mg kg-1; rocuronium 0.6 mg kg-1; propofol infusion,mean 42; SD 11

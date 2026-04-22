@@ -1,17 +1,17 @@
-# Data folder — too large for GitHub
-EBM-NLP-master/
-
 # Large files
-outputs/Axis1A
-outputs/Axis1B
-outputs/Axis2A
-outputs/Axis2B
+*.npy
+*.sh
 
-# System files
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
 .DS_Store
 Thumbs.db
-.Rhistory
-
-# files
-*.txt
-*.md

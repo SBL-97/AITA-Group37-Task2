@@ -1,192 +1,190 @@
 doc_id,participants_pred,interventions_pred,outcomes_pred
-10036953,99 patients,two 1-week low-dose triple-therapy drug regimens; short-term low-dose triple therapy; antisecretory drugs; drug combination; clarithromycin,cure rate; CI 84-99; CI 79-97
-10037531,,,
-10052279,chronic obstructive pulmonary disease; Forty-five patients,coronary artery bypass graft surgery,Peak expiratory flow rate
-10071998,,45 mg,Visual analog scale; pain scores
-10075386,hypertensive patients,,mean 24-h blood pressure; significant increase; mean 24-h heart rate
-10077140,Patients; patients,,pulse rate; changes
-10078672,healthy volunteers,placebo-controlled; infusions; 64 ng/ml,40:1 potency ratio; 20:1 ratio
-10078673,patient-controlled epidural analgesia,lower abdominal surgery,Pain scores
-10080319,implant treatment,implant treatment,
-10084579,,,17-OHP levels
-10089089,neutropenic patients; standard regimen,1.5 mg/kg b.i.d.; tobramycin,antibiotic change
-10091821,"6,781 patients",,Higher mean arterial pressure; total mortality relative risk; cardiovascular mortality; higher heart rate
-10093945,treatment; children; patients,two divided doses; 10 mg/kg/day; 20 mg/kg/day; treatment,mean difference
-10094243,Twenty-nine patients; ten patients,two previous infusion studies; placebo,heart rate; changes
-10097996,pervasive developmental disorders; normal children; new instrument,,Wechsler Intelligence Scale; lower TOM test scores
-10100592,treatment; patients,multidrug combined cancer chemotherapy; slow intravenous injection; granisetron injection; 30-min infusion; treatment,
-10148879,Eighty healthy women; patient-controlled,,umbilical serum levels; administration
-10155556,Churg-Strauss syndrome; first-line treatment; effective treatment; 236 patients; CSS patients,short-term steroid therapy; immunosuppressive therapy; first-line treatment; anti-viral therapy,poor seroconversion rate; subsequent survival
-10172265,,,mortality
-10188144,4-week treatment period; 247 patients,placebo-controlled comparison; 1-week placebo run-in period; 4-week treatment period; mizolastine 10 mg,visual analogue score
-10190267,Rett syndrome; 35 subjects,Eight-week treatment phases; placebo-controlled,Hand Apraxia Scale; change
-10194485,severe post-thrombotic venous disease; healthy volunteers; patients,,femoral vein levels; mean peak velocity
-10195003,392 patients,low dose intravenous urography; lower dose,
-10197379,PATIENTS Individuals free; tuberculosis,placebo,risk ratio
-10200837,METHOD Twelve children; experimental group,placebo group,Conners Parent Rating Scale; significant reduction
-10201101,,,Intermediate accuracy scores; levels
-10203382,Mycobacterium avium complex bacteremia; two alternative therapeutic regimens; MAC treatment trial; AIDS patients,vitro drug susceptibility; therapeutic drug use; MAC treatment trial,poor survival outcomes; Karnofsky score; mortality; decrease; level
-10207709,,one therapy session,cooperation
-10208073,30 pediatric cancer patients; pain management,,
-10209728,patients,20 mg three times,Changes
-10211492,115 patients,local injection; Local injection,significant reduction; incidence
-10213233,postoperative endophthalmitis; random assignment; 420 EVS patients; 201 patients,,rate
-10213554,,,
-10223244,patients,,
-10224577,20 consecutive patients,heparin treatment; infusion,time since operation
-10225743,,,
-10230191,METHOD Twenty-four children; young children,1.0 mg/kg; placebo,
-10235220,three treatment arms; patients,total dose,relapse rate
-10337083,,,Effective response rates
-10337433,,,increased hyperemia
-10337657,patients; 259 men,,
-10337847,,,
-10338217,patients undergoing BMT; 66 patients,,GLN administration; incidence; duration
-10348763,malignant disease; 15 children; 20 children,,creatinine concentrations; significant increases; AmB administration
-10352330,adult respiratory distress syndrome; 132 patients,chemotherapy,incidence; duration
-10352397,24 obese subjects; 22 women,Low-dose growth hormone treatment; placebo-controlled trial; vehicle injection; low-dose GH,1.6-fold increase; further increase; insulin levels
-10355394,low-risk patients; fifty patients,,CABG reoperations; less reoperation
-10356632,attention-related impairment,,Wechsler Memory Scale Attention/Concentration index
-10360656,Forty-nine chemotherapy-naive patients,monotherapy; 750 mg,survival time; response rate
-10361382,,placebos; 0.8 mg; 180 mg,naloxone administration
-10361648,two experimental videotapes; female CABG patients,coronary bypass surgery,frequent moderate exercise
-10374155,childhood cataract; management,,
-10379020,postmenstrual age; supplementation; sham treatment; regimen,sham treatment; lower doses,mean birth weight
-10380161,,,small obstructive changes; NO2-induced changes; decrease
-10382082,,,incidence
-10382134,22 autistic children; patients,,
-10385063,osteoporosis; bone disease; 76 patients; cirrhosis; 50 women,treatment; 0.5 mg,mean annual change
-10390407,asthmatic patients,placebo-controlled design; cumulative doses,higher tremor score; heart rate
-10402369,Adjuvant L-arginine treatment; poor responder patients; poor responder women; 34 patients,Adjuvant L-arginine treatment,follicular fluid concentrations; lower cancellation rate; nitrite/nitrate
-10404444,paediatric asthma patients; Royal Children; 60 patients,,standard level; rate
-10408075,,,level
-10410152,acute myeloid leukemia,remission induction chemotherapy; 125 mg/body,complete inhibition rate
-10414756,PATIENTS Twenty-six patients; elements; 22 men; women,,significant changes; critical changes; heart rate
-10424316,subjective assessments; hypertensive patients; healthy volunteers,captopril 25 mg; enalapril; placebo; 12.5 mg; 10 mg,administration
-10429005,,pharyngeal infusion; 0.4 mL,significant reduction; oxygen saturation; heart rate
-10439497,PARTICIPANTS Hypertensive patients; hypercholesterolaemic patients; Treatment,treatment; captopril; atenolol; drug,concurrent administration
-10439763,128 women,Preoperative small-dose ketamine; 0.15 mg/kg ketamine; small dose; surgery,visual analog scale pain scores
-10441604,treatment,doses sufficient; two drugs; treatment,P=0.67; P=1.00
-10442506,12 patients; 24 patients,amlodipine; enalapril; placebo; 20 mg,Meanwhile enalapril; ratio MDA-basal
-10443725,benign prostatic enlargement; twenty-one men; improvement; patients; Patients,mg finasteride; treatment; placebo; therapy,decreases
-10448447,women,other treatment variables,strategies liable
-10463847,childhood severe cryptogenic/idiopathic generalised epilepsy; 72 children,,slow wave foci
-10470636,PATIENTS 21 ASA physical status; III patients,10 mg,mean intraabdominal pressure; mean bladder compliance; increase
-10476617,treatment groups; pregnant women,400 mg/day; placebo,mean plasma concentration; administration; incidence
-10482855,,,
-10489959,Assessment,,
-10492627,evaluable patients; Patients younger; mental condition,pre-operative chemotherapy; surgery,curative resectability rate
-10499652,undergone preoperative heparin treatment; Thirty patients,continuous infusion; two doses; same dose; mg/kg/h,C. Purified AT-III administration; two different strategies
-10506815,95 subjects,,change
-10509459,,,
-10517189,two antibiotic regimens; patient tolerability; Forty patients; brucellosis; treatment,doxycycline 200 mg/day; rifampicin 600 mg/day; rifampicin treatment,mean+/-SD; P=0.044; rates
-10517426,experimental human influenza; 117 healthy adult volunteers; treatment,same drug; treatment; placebo; 100 mg; 200 mg,nasal proinflammatory cytokine levels; symptom scores; score-hours; duration
-10525558,forty four patients; treatment,bronchodilator therapy; treatment; placebo,peak expiratory flow rate; different levels
-10539493,,,
-10550137,Granulocyte-macrophage colony-stimulating factor treatment; 20 women; PATIENTS,Granulocyte-macrophage colony-stimulating factor treatment; cyclophosphamide chemotherapy; adjuvant chemotherapy; placebo-controlled,higher mean neutrophil count; mean +/- SD; duration
-10554799,patients; Adults,itraconazole versus fluconazole; 100 mg fluconazole suspension; itraconazole oral solution; mg/kg/d itraconazole; chemotherapy,
-10555930,SUBJECTS Eight male volunteers,intravenous loading dose; 8-hour infusion; treatment days; treatments; placebo,p=0.005
-10557909,cardiac surgery patients,cardiac surgery patients,
-10560780,hypertensive young urban black men,,
-10563544,normal subjects; 17 subjects; non-smokers; patients,placebo solution,reduction; rate
-10566623,twenty-nine adult patients,,recombinant human TSH administration; serum Tg level; levels
-10568568,ten healthy volunteers; 20 patients; syndrome,placebo,Increases; Changes
-10575594,Thirty postmenopausal women,600 mg ipriflavone,decrease; increase
-10588965,pervasive developmental disorder; 56 children; 60 children; treatment,placebo-controlled trial; single intravenous dose; intravenous infusion; saline placebo; single dose,mean total score; mean difference; mean decreases; P=0.11; scores
-10592853,841 women,,
-10593347,hypercholesterolemic men; women,placebo spread,LDL-C levels; incidence
-10594393,ulcerative colitis; 16 patients,exogenous bile acid therapy; placebo-controlled trial; two divided doses; 10 mg/kg,functional score
-10594396,severe reflux oesophagitis; 133 patients,Standard-dose lansoprazole; standard-dose lansoprazole; high-dose ranitidine; 30 mg o.d,patient-rated overall symptom severity
-10599355,systemic sclerosis; 41 patients,Enalapril; 10 mg/day; enalapril; placebo,mean values; changes
-10602739,chronic osteomyelitis; treatment,treatment,
-10606880,,therapeutic doses; s.c. treatment; infusion,pre-injection level; baseline level; peak levels; Peak levels
-10607234,chronic active hepatitis; 10 Chinese patients; Caucasian patients; chronic hepatitis; serum hepatitis,interferon-alpha therapy; 10 000 pg ml-1; treatment,significant increase; second increase; CD4/CD8 ratios
-10618526,recombinant Hepatitis; 200 children,,serum HBs-Ag concentrations; anti-HBsAg concentrations; antibody concentration; accelerated schedule
-10619912,patients,,whereas TAG-72 concentration
-10624759,"ramp-incremental cycle ergometry; 8,000 subjects",,physical activity scores
-10632537,patients,transcatheter arterial infusion; initial treatment; initial therapy; 100 mg,tumor regression rate; reductions
-10634835,neonatal respiratory distress syndrome; patient triggered,,conventional fast rate ventilation; incidence
-10634838,,0.5-1 ml/h,complication incidence; mean difference -11.5; mean difference -22.1; mean difference -11.2; mean difference -22.4
-10636373,hypertensive patients; treatment; Treatment,treatment; Treatment,
-10637238,ER-positive patients; 231 patients,chemohormonal therapy; first-line therapy; front-line therapy; induction therapy; chemotherapy,overall survival; response rates
-10643677,obese subjects,,carbohydrate oxidation; substrate utilization; increase; changes; means
-10649829,adult autistic disorder; Eleven adult patients,single dose sumatriptan; placebo challenges; mg SQ,YBOCS-compulsion score
-10651597,PATIENTS 83 patients; osteoarthritis; treatment; 22 women; 27 women,manual physical therapy; treatment group; manual therapy,baseline WOMAC scores
-10660161,stentless versus conventional aortic valve replacement,,reduction
-10661479,20 adult enfeebled hemodialysis patients; growth hormone treatment,single daily subcutaneous injection; growth hormone treatment; placebo injections,insignificant decrease; significant changes
-10663363,established postmenopausal osteoporosis; established osteoporosis; postmenopausal women; Postmenopausal women; subjects,elemental calcium 1000 mg/day; placebo,
-10665129,stable chronic obstuctive pulmonary disease; within-patient; 27 patients,puffs placebo; puff placebo,single administration; Mean peak FEV1 change; peak changes
-10671339,stem cell transplant patients; 117 patients,,response rate
-10674229,,,plasma AA levels; basal levels
-10674680,Assessment; Patients,,
-10674681,primaquine regimens; treatments regimens; Patients,"single dose; high dose; 1,500 mg; tablets; 200 mg",Cure rates
-10678548,chronic renal disease; patients,valsartan 160 mg; valsartan 80 mg; benazepril; therapy; 10 mg,largest decrease; mean change; P= 0.0006; P= 0.0008; P= 0.030
-10682031,documented nosocomial pneumonia; ventilated patients,aerosolized tobramycin; tobramycin aerosols; mg/kg/day; placebo,
-10683506,healthy subjects; six women; six men,,heart rate frequency; significant decrease; significant increase; significant changes
-10685169,topical treatment,four treatment groups; topical treatment,two concentrations
-10685722,446 hypertensive patients,fixed low-dose perindopril/indapamide combination; low dose combination perindopril; mg/indapamide 0.625 mg; 4-week placebo run-in; 50 mg,greater decrease; changes; sDBP
-10685817,26 patients; Treatment,dose-dependent; ml saline; Treatment,significant changes; Vernon-Mior scale; reduction
-10690138,,first injection,median duration; incidence
-10690697,Sixty-one subjects; MEASUREMENTS; assessment; enrolment,,Modified Falls Efficacy Scale; Falls Efficacy Scales
-10693733,children,,
-10703628,occupational irritant contact dermatitis,,stratum corneum hydration; preparations
-10706930,hormone replacement therapy; 118 postmenopausal women; coronary artery disease,hormone replacement therapy; treatment,nonsignificant changes; significant decreases; questionable increase; levels
-10707032,non-diabetic obese subjects; hypertriglyceridaemia; metformin treatment; non-diabetic men,metformin treatment; 850 mg bid; placebo,Tissue plasminogen activator antigen concentration; plasma triglyceride concentration; concentrations; change
-10715372,,,decrease
-10719133,23 essential hypertensive out-patients; biofeedback treatment,Blood pressure biofeedback treatment,respiratory rates
-10720081,Thirteen age-matched healthy volunteers; 10 patients; women,GHRH injection; infusion,ratio
-10726430,,MLSS velocity,1.8 +/- 0.3 mmol.l-1 increase; mean +/- SE; change
-10734271,,,scales
-10735838,120 children,EMLA cream,pain scores
-10735900,high-risk childhood acute lymphoblastic leukemia; 12 patients; 55 patients,chemotherapy dose-intensity; consolidation chemotherapy; high-dose cytarabine,mean +/- 95; Duration
-10741095,different long-term asthma treatments; different asthma treatment; 11 patients; subjects,different long-term asthma treatments; different asthma treatment,symptom score
-10741842,low-income urban children; home environment,,
-10742359,,,less missed opportunities/vaccine administration errors; postintervention knowledge scores
-10754477,childhood brain tumours,standard supramaximal dose; dose-response curves; doses,GH concentrations; P=0.007
-10755175,crossover experimental design; control treatment; 16 children,control treatment,adaptive/social behavior scores; teacher-rated measures; parent-rated measures
-10757250,Twenty healthy subjects; pursuit eye movements; Patients,other psychotropic drugs such; lorazepam 0.5 mg; placebo; 50 mg,
-10757579,paediatric patients; children,Ropivacaine-clonidine combination; subumbilical surgery; caudal injection; ml/kg,Objective pain scale score; duration; P=0.034
-10758987,,,reduction; ratio
-10759619,peptic ulcer disease; volunteers; treatment,roxithromycin 300 mg b.d.; lansoprazole 30 mg b.d.; roxithromycin levels; 20 mg b.d.; omeprazole,
-10768434,45 patients,placebo-PDT interventions; Photodynamic therapy; standard treatment,median relative reduction; p=0.0006; p=0.008
-10770301,449 patients; treatment,treatment; 160 mg,odds ratio=1.13; CI 0.57-2.24
-10770979,Subjects; 2079 men; women,,unadjusted risk ratio; mean; rate
-10778276,,,
-10781855,group A+C meningococcal polysaccharide vaccine; meningococcal conjugate vaccine; Subjects; MenPS; MenC,one dose,meningococcal IgG antibody concentrations; post immunisation reaction rates
-10790473,psychosocial development; three-year-old children,,cumulative durations; scores
-10807619,chronic obstructive pulmonary disease; patients,identical placebo; dose inhaler,Median exacerbation rate; P=0.026; P=0.034
-10808042,adult autistic disorders; 11 adult patients,single dose sumatriptan; placebo challenges; mg SQ,
-10811665,four successive Children; initial CNS involvement; disseminated disease; B-cell leukemia; 462 patients,intrathecal chemotherapy,higher treatment failure rate; relative failure rate; LDH levels greater
-10816058,19 children,paediatric heart surgery,levels; Levels
-10826576,POPULATION Sixty-two patients; treatment,,less analgesics administration
-10832772,Pervasive Developmental Disorder; Thirty-four patients; Fifty-six patients,treatment modality; one injection; injections; placebo,meaningful changes; transient changes
-10832773,,,
-10832774,assessments; patients,,
-10837440,chronic bronchitis; 10 day regimen; 548 patients; treatment,cefdinir 300 mg bd; treatment; 500 mg bd,microbiological eradication rates; clinical cure rates; incidence
-10848655,32 929 subjects; 1161 subjects,clarithromycin 250 mg b.d; tinidazole 500 mg b.d; omeprazole 20 mg b.d.,eradication rate
-10850381,oral mucositis; Patients; patients,CAE chemotherapy; placebo,significant reduction; incidence
-10860330,Sixty-seven subjects,conventional air turbine/bur dental surgery,restoration retention; significant decrease; resin restorations; cavity preparation; discomfort levels
-10861653,pre-core mutant chronic hepatitis; pre-core mutant hepatitis; effective treatment; patients,effective treatment,
-10870534,PARTICIPANTS 111 patients; INTERVENTIONS Management; emergency department; managing patients; primary diagnosis,,complication rates; readmission rates
-10871578,bone marrow transplantation patients,high-dose chemotherapy,gamma-tocopherol concentrations; whereas cystine concentrations; Plasma cysteine concentrations; zinc concentrations; unchanged
-10889149,587 H. pylori-infected subjects,clarithromycin; amoxicillin; omeprazole; placebo,histologic changes; marginal increase; decrease
-10889804,523 overweight subjects,,greater reductions; weight reduction
-10901647,Eleven patients,,
-10902449,Patients,0.8 mg/kg,duration; levels
-10926339,regular pharmacological treatment; 101 adult patients; initial treatment,low dose inhaled steroid; two treatment groups; initial treatment,P=0.10 high; decrease; P=0.02
-10928228,bone mass measurements; osteoporosis; 46 patients,,change; rate
-10934908,,,
-10939601,chemotherapy-naive patients,"chemotherapy-naive patients; 750 mg/m2 iv bolus days; 25 mg/m2 iv bolus days; 2-hr infusion; 2,000 mg/m2",median survival time
-10945514,469 patients; treatment,combination hydrocodone 7.5 mg; combination codeine 30 mg; ibuprofen 200 mg; 1-tablet doses; 2-tablet doses,overall mean daily pain relief score; overall mean number
-10947757,Forty adult patients,minor elective surgery,pre-induction level; surgery levels; decrease
-10957888,Eighty-six male patients; Seventy-eight patients,erythromycin stearate 500 mg; clarithromycin 500 mg; roxithromycin 150 mg,clinical success rates; clinical cure rates
-10960380,ambulatory anterior cruciate ligament repair; Sixty patients; 29 patients; 31 patients,80-mg doses; 60-mg dose; two doses; 80 mg,
-10963640,seventeen anthracycline-naive MBC patients; metastatic breast cancer patients; following regimens; same regimen; treatment,Epirubicin-based chemotherapy; fluorouracil 500 mg/m; epirubicin 100 mg/m; epirubicin 50 mg/m; dose-intensity,ventricular ejection fraction decrease; objective response rate; response duration
-10968308,PARTICIPANTS Patients; case management,,
-10969304,,computer-controlled infusion pump,physostigmine administration; concomitant increases; reductions
-10971307,24 healthy volunteers; healthy subjects,placebo-controlled; single oral doses; 10 mg,highest dose level; administration; heart rate
-10971538,postoperative objective assessment; Forty-seven patients; treatment,treatment; surgery,mean postoperative Snore Index
-10973645,Infertile women; pregnant women; new patients,,stage-of-change; mean delta; rate
-10986219,hepatic encephalopathy; cirrhosis; patients; PATIENTS; Child,placebo,alteration; p=0.02
-10986363,children,,demonstrations
-10992833,,rapacuronium 1.5 mg kg-1; rocuronium 0.6 mg kg-1; propofol infusion,mean 42; SD 11
+10070173,Private practices; eighty-four out-patients; seasonal allergic rhinitis; Turbuhaler two,non-nasal adverse events; common nasal; budesonide aqua 256 microg/day; budesonide Turbuhaler 400 microg/day,substantial control; symptom scores; two nasal devices; significant changes
+10390665,better anti-emetic; 4-10 years; Anti-emetic efficacy; 90 paediatric patients,granisetron 40 mg kg-1; 70 mg kg-1; 90 paediatric,corresponding incidence
+10475150,nocturnal secretion; Urinary excretion; pineal gland; 50 microg,8 healthy; nocturnal melatonin secretion; similar magnitude; increased nocturnal secretion,126.6+/-21.9 mU/l x h; healthy controls; primary hypothyroidism; GH AUC 22.6+/-5.4 mU/l x h
+10578479,soy beverage; urinary estrogen metabolite; menstrual cycle length; sex hormone metabolism,38 mg,urinary estrogen metabolite ratio; progesterone concentrations
+10589810,conventional steel; BOP percentage; prospective longitudinal clinical study; conventional steel curettes,such plastic curettes; hard structures; other 20; clinical effects,Clinical parameters; root planing; 3-6 months; periodontal diseases
+10752495,,,
+10763172,alpha <; combination Xylometazoline-Dexpanthenol; Wilcoxon-Mann-Whitney-U two-sided; two weeks treatment,alternative therapy; tolerability therapy; Randomized verum,two weeks; combined administration; nasal operation
+10764172,abdominal surgery; lower two hours; Group IT0.5; morphine suppress,intrathecal 0.5 mg morphine; two hours; blood NK cell activity; Blood samples,plasma cortisol levels; NK cell activities; pain score; noradrenaline concentrations
+10912743,Hypertension study; ambulatory systolic; automatic sphygmomanometer; 95% confidence intervals,142 hypertensive; 100 mg/day; Fifteen Italian hypertension units; used antihypertensive drug classes,used antihypertensive; Primary Prevention Project; significant influence; small sample size
+10934569,2 years; pervasive developmental disorder NOS; intensive treatment group; visual-spatial skills,intensive early intervention,
+10940525,positive-control product; clinical evaluations; selamectin treatment; days 180,four heartworm-endemic areas; in-contact animals; 3954 doses; adult heartworm infection,North America; heartworm prevention rate; pyrethrin-treated cats; selamectin-treated cats
+11099086,10 years; parenteral regimen; December 1997; Clinical cure,Days 1; serious condition; diarrheagenic Escherichia coli; 21 +/- 5,Campylobacter spp; Stool cultures; Clinical response
+11229858,small effect; fever peaks; fever clearance; Antipyretic treatment,antipyretic drugs,
+1131298,10 healthy subjects; diallyl disulphide; essential oil fraction; coagulation time,10 healthy,
+11317090,80% power; arthritis-specific Health Assessment Questionnaire; null hypothesis; Medicare reimbursement rates,Aquatic exercise; participant-weighted measure; regular class attendance; economic evaluation,costs/QALY ratios; Economic evaluation; community-weighted outcome
+11381289,myocardial infarction; high risk; likely due; cardiovascular events,ACE inhibitor therapy,Heart Outcomes Prevention Evaluation
+11401641,One group; p <0.001; open angle glaucoma; 24.2 +/- 0.9,IOP reduction; good effect; least 2 weeks; current therapy,primary open angle glaucoma
+11454878,platinum-sensitive patients; Recurrent epithelial ovarian carcinoma; 23.3 weeks; overall progression-free,PLD 50 mg/m; bulky disease; favorable safety profile; Median overall,overall response rates; Median overall survival times; assessable disease; pegylated liposomal doxorubicin
+11495215,cardiovascular reactivity; increased cardiovascular reactivity; enhanced risk; one mechanism,greater heart; chronic cigarette smoking; lipid reactivity; diastolic blood pressure reactivity,acute nicotine administration; Sixty healthy; previous 6 months; nicotine administration
+11642083,left ventricular dilation; 29 patients; Antiarrhythmic action; Left ventricular systolic function,MATERIAL AND METHODS 106 males; thrombolytic therapy,unfavourable outcome; streptokinase preparations
+11737955,cytochrome P450; 12 week supplementation period; Daily supplementation; hydroxyl radicals,2 mg beta-carotene; thiobarbituric acid reactive substances; n 11; 100 mg dl-alpha-tocopheryl acetate,free radical products; ratios para-; plasma concentrations
+11750293,predictive role; Twenty-two patients; process measures; first study,rheumatoid arthritis,clinical outcome
+11829043,Life Index; home practice; Eighteen patients; Life Scale,,WHOQoL score; C-STAI score; decrease state anxiety
+11891832,serum creatine kinase activity; methotrexate group; Serum creatine kinase activity; treatment groups,randomized double-blind placebo-controlled study; weakness progression; manual muscle,primary study outcome measure; activity scale scores; sum scores; Mean change
+12139812,limbal epithelial autograft transplantation; initial pterygium; reasonable therapeutic method; 102 cases,96 eyes; 11 2 eyes,abnormal proliferation
+12477021,Thirty-five university students; Goldmann tonometry; non-contact tonometry; p> 0.05,,
+12576806,Inherent stent; ureteropelvic junction obstruction; 7/14Fr internal endopyelotomy stent placement; range 12,S Two weeks; 2 groups; ureteropelvic junction; decrease stent related complications,57 consecutive; good proportion; functional restoration; urinary tract infections
+12586799,weeks 1; second cycle; RT-alone groups; nine patients,96-hour continuous infusion; versus radiotherapy; concurrent chemotherapy; endemic areas,1992 American Joint Committee; PURPOSE Nasopharyngeal carcinoma; Cancer stage III; developed tumor relapse
+12595499,> 1+; Prevention Evaluation; 200 microM; 4.5 yr,high risk; progressive rise; 2.3 mg/dl; cardiovascular disease,diabetic people; Heart Outcomes; odds ratio [OR]
+12709693,conscious analgesia/sedation; outpatient colonoscopy; Conscious analgesia/sedation; rapid recovery,colonoscopy painless; initial parameters; 100 adult; 0.25 microg/kg/min,NRS score 0; average pain intensity score; S Combined administration; heart rate
+1286547,4 weeks; nitrendipine treatment; 1.0 micrograms/ml; 5 microM,platelet rich plasma; PF4 plasma levels; placebo-controlled study; Twenty-nine IDDM,long-term administration; borderline hypertensive; long-term nitrendipine; collagen dependent platelet activation
+12960652,different gastrointestinal diseases; epigastric impedance; impedance gastrography; 40 healthy infants,gastric phasic activity patterns; gastric myoelectrical activity; electrical control activity; gastrointestinal diseases,pyloric stenosis.All; least one hour
+1459268,ovulation induction; Prospective study; ultrashort regimens; PATIENTS Forty-eight patients,,MAIN OUTCOME MEASURES Response; pregnancy rates
+14679127,238.4+ weeks; 92.6+ weeks; comparable efficacy; phase III,175 mg/m; 1.5 mg/m; Demographic characteristics; EORTC QOL-30 questionnaire,Cancer Quality; eight symptoms; long-term survival rate; European Organisation
+14739125,50 nM; nonHDL plasma fraction; Five groups; 8 subjects,high-density lipoprotein cholesterol; low-density lipoprotein cholesterol; healthy young; potent cholesteryl ester transfer protein,
+14763035,145 +/- 5; regressive effect; large-artery compliance; arterial hemodynamics,12 months; LVMi> 137 g/m2; ARB valsartan; 110 g/m2,
+15014018,impacted RFS; two-sided log-rank P value = 0.006; four multicenter; high-risk resected melanoma,April 2001; high-dose IFN-alpha 2b; adjuvant high-dose IFN-alpha 2b; PURPOSE Nearly 2000,median follow-up intervals; original conclusions
+15133359,CS cannulation time; procedural time; critical step; 4.6 +/- 2.3 min,Thirty-four consecutive,CS ostium; conventional strategy; Total contrast dye volume; CS cannulation strategy
+15193668,behavioral intentions; explanatory information; improved third-; autistic behaviors,,positive effect
+15358868,Superior unique item detection; visual search tasks; Superior visual search; stimulus processing disturbances,previous findings,
+15848261,suggest particular improvement; anticipation equilibrium; reception double stance; [Postural biofeedback,early conventional therapy; conventional therapy; paretic limb single stance; balance training,post-acute hemiparetic; rehabilitation unit; clinical scores; Gait velocity
+15854186,flexible fibreoptic nasendoscopy; double-blind study; minimal pain; nasal spray,visual analogue scale; placebo nasal spray,nasal preparation; topical preparation
+15858959,5.5 d; Certain probiotic agents; demographic characteristics; 5 d. Clinical,p <0.001; p = 0.003; 3.9 d; average stool frequency,Lactobacillus GG; acute childhood diarrhoea; few studies; clinical trials
+16055807,,,
+16167234,Nitrogen balance; seven consecutive days; BCAA group; Forty patients,significant difference; two groups; positive nitrogen balance 2 days; cumulative nitrogen balance,cumulative postoperative fatigue scores; postoperative fatigue score; first day
+16295154,"standardized nursing; counseling needs; n = 31; stress """,large metropolitan; expanded nursing intervention; diagnostic tests; standardized nursing intervention,expanded nursing; secondary purpose
+16427787,brain activity; pineal gland; sleep deprivation; Sleep-anticipating effects,sleep-associated brain activation patterns,
+16505427,40K arm v 15%; 120K arm; greater global QOL; 18 additional weeks,continued weekly epoetin alfa; cancer-associated anemia; three weekly doses; maintenance epoetin alfa,Phase III study; two different; overall survival
+1669598,disodium cromoglycate; powder extract; significant decrease; significant variation,underwent LI; parenteral immunotherapy; 6 months; Group B,symptoms score
+17293018,C. difficile-associated diarrhea; adverse event monitoring; toxin B; analytical data,,clinical evidence demonstrate; whey protein concentrate; regular whey protein concentrate
+17321989,systemic fungal disease; 4 weeks; Adverse events; fluconazole group,itraconazole capsules; capsule forms; 3 probable; fluconazole capsules,
+17616069,Gynecology 2nd Medical Faculty Charles University; two weeks; ferric oxide treatment; intravenous trivalent,500 mg; Integral part; lab signs; sacharose ferric oxide,trivalent ferrum preparation; 3rd day post administration; iron cell saturation; trivalent ferrum preparation]
+1780092,new pharmaceutical form; therapeutic action; Clinical study; progressive improvement,non-steroid anti-inflammatory drug; marked anti-inflammatory; 7 days; inflammatory state,
+17897478,other sputum markers; adult asthmatics; sputum cysteinyl leukotrienes; different treatments,Few studies; induced sputum inflammatory cells; low dose inhaled corticosteroids; significant effect,Additional outcomes; ratio 1.80
+18077611,herpes zoster; =60 years; freezer availability; vaccine Zostavax,frozen formulation groups; 95% confidence interval; injection-site AEs; similar GMTs,vaccine-related serious AEs; primary endpoints; 28 days; GMT ratio
+18189160,Further improvements; early breast cancer; personal/logistical reasons; day 2,adjuvant therapy; pegfilgrastim 6 mg; One dose reduction; two dose-dense FEC,=85% relative; low risk; primary efficacy endpoint; one patient
+18229990,12 months; mother-child interactions; 46 boys; JA skills,play interventions; 30 min daily; 5-6 weeks; JA intervention,language outcome
+18337284,penicillin V; preventable chronic disease; positive throat swabs; follow-up throat cultures,days 12-16; positive cultures; One case; days 26-36,significant differences; 10 days; oral amoxicillin 1500; oral penicillin V 500
+18503531,small group sessions; teacher handouts; parent training sessions; 7-week program,METHOD Forty-nine; 5-months post-intervention; wait-list control; n = 23,
+18544974,p <0.001; school-aged children; significant differences; two 3-week study periods,daily intake; prebiotic effect; 30 healthy,milk-based fruit juice; 65 ml
+18773733,auditory tone; first experiment; vibrotactile stimulus; four values,sound energy levels; auditory sensations,
+18783504,cigarette craving; Tobacco Research; Bupropion SR effects; putative mediators,motivational processes; S Results; placebo-controlled clinical trial; bupropion SR efficacy,
+18845996,first cycle; granulocyte colony; 4 weeks; documented infection,high risk; optimal threshold; 60 mg/m; later cycles,
+18958161,TD children; social interactions; event-related fMRI; gender-matched other face,self face; greater percentage; right premotor/prefrontal system,potential neural substrate
+18975051,Attenuation values; multidetector-row CT; CT value; intracranial arteriovenous contrast,Bolus injection; various contrast injection protocols,same rate; various iodine concentrations; higher concentration; delivery rates
+19096921,clinical practice; structured parent training; adaptive functioning; Trial design challenges,exportable behavioral interventions; lower dose,
+19108790,isotonic saline; 154 [6] cm; mean [SD] age; select group,conventional antiemetics droperidol; propofol 0.5 mg/kg; metoclopramide 0.2 mg/kg; postoperative nausea,significant differences; Breast cancer surgery; general anesthesia; Extrapyramidal symptoms
+19159999,Group N; Korean Raynaud study; 2 weeks; KOARA study,p = 0.03,primary RP; Primary RP; primary Raynaud; RP attack rate
+19301724,Postoperative epidural analgesia; common side effects such; femoral nerve block; hospital stay,total knee arthroplasty; Group II; 61 ASA physical status I-III; morphine 0.0125 mg/ml,hospital LOS; continuous epidural; Patient satisfaction; postoperative analgesic efficacy
+19376304,2 different dosages; atrial fibrillation; randomized evaluation; equal numbers,systemic embolism; end points; 450 events; liver function abnormalities,Safety outcomes; broad range; open-label multinational; worldwide site distribution
+1963383,,,
+1968178,inflated cuff; average 7 s; systolic blood pressure; first Korotkoff sounds,seven hypertensive,change blood pressure
+19708562,gastric ulcer; 60 years; standard analyses; significant reduction,traditional therapy; transcranial electrotherapy,ulceration process
+19727232,social interactions; auditory integrative training; 81 cases; multiple therapies,intelligence quotient; clinical manifestation; Autism Behavior Checklist,IQ scores; ABC scores
+19802506,bone loss; additional decreases; Strength/weight training exercises; total hip,plus medication,Additional changes; ST exercises; risedronate weekly; exercise group
+20147856,80 patients; arm B; chemo-naïve stage IIIB/IV non-small cell lung cancer; Median time,advanced non-small cell lung cancer; two different schedules; 3.6 months; 1000 mg/m/d,survival data; Median survival time; response rates; higher response rate
+20189026,333 consecutive adult patients; first acute myocardial infarction; ischaemic conditioning; blood-pressure cuff,inclusion criteria; number NCT00435266; hospital admission; Remote ischaemic conditioning,primary endpoint; primary percutaneous coronary; 1:1 ratio; clinical outcomes
+20226474,severe bleeding; Cryoprobe biopsy; 11 cases; Forceps biopsy,"malignant stenosis; obtained biopsies; "" cryobiopsies; bronchoscopic interventions",moderate bleeding; bronchoscopy unit; artifact-free tissue sections; overall diagnostic yield
+20509069,adjunctive nonpharmacologic analgesic techniques; analgesic care; analgesic suggestion; less pain unpleasantness,21 hospitalized trauma,
+20560622,urine biochemical parameters; male adolescents; bone metabolism; similar solubility,high intake; Caco-2 cell monolayers; calcium availability; period warrant attention,
+20618920,recent years; Mediterranean diet pattern; physical activity; standard antidepressant treatment,6 month intervention period,primary care; Outcome measures; adjuvant antidepressant strategy
+2066441,1 root; TC + RP groups; TC group; above findings,,4 consecutive administrations; decreased rate; local administration
+20739054,versus ten; immune thrombocytopenia; eltrombopag group; 6 months,FINDINGS Between Nov 22; July 31; thromboembolic events; 4 weeks,FUNDING GlaxoSmithKline; primary endpoint; computer-generated randomisation schedule; 2:1 ratio
+20804366,sham tongue acupuncture; practical reasoning; Mental Age; control trial,,total score; Total Score
+2088233,radiographic attachment loss; cultivable flora; localized juvenile periodontitis; microbiological efficacy,100 mg; placebo-controlled study; same sites; Subgingival bacterial samples,
+20943715,knee joint; affected lower limb; 23.97 ± 14.30; one gait cycle,INTERVENTION Four locomotor imagery trainings; Physical Therapy,locomotor imagery training; auditory step; stance phases; clinical feasibility
+21029638,treatment emergent symptom scale; severe adverse effect; 81 schizophrenics; t = -4.49,social disability; paliperidone extended-release tablets; t = 10.83; negative symptoms scales,negative factor; t = 2.58-4.26; positive factor; total scores
+21106663,important clinical issue; cessation treatment; verified abstinence; first 6 months,Extant research; brief alcohol intervention; 236 heavy drinking; Time-varying smoking abstinence,intentional smoking abstinence
+21170734,alanine aminotransferase; Serum lactate levels; clove powder solution exposure; Huso huso,"higher dose; slow anesthesia; 3,000 mg l⁻¹ group; 500 mg l⁻¹ clove solution",
+21211686,low-density lipoprotein cholesterol; r = 0.16; S Favorable effects; Multivariable analysis,high-density lipoprotein cholesterol; p = 0.045; Substantial atheroma regression; 360 diabetic,triglyceride/high-density lipoprotein cholesterol ratio; triglyceride/HDL-C ratio
+21393467,direct optimization; preferred step frequency; pre-programmed gaits; pre-programmed selection,pre-programmed response; sensed feedback; fast process; slow process,total change; transient changes; unusual closed-loop perturbations; total amplitude change
+21491990,PD ≥4 mm; ≥12 teeth; Periodontal pathogens Aggregatibacter actinomycetemcomitans; new chips,test group; novel approach; high sensitive C-reactive; serologic parameters,
+21669557,fine particulate matter; chimney stoves; ST-segment values; 102 μg/m³,intervention groups; Electrocardiogram sessions; 70 control; three times,Randomized Exposure Study; Respiratory Effects; wood smoke exposure; chimney woodstove
+21718094,higher mixed-meal tolerance test-stimulated C-peptide values; anthropometric measures; initial diagnosis; insulin pump,Insulin pump therapy; S Initiation; diagnosis improved glycemic control; standard multiple daily insulin injections,Insulin pump
+21866656,test group; Chinese medicine syndrome integral; 9.12 +/- 6.16; serum EMAb negative conversion,serum CA125 level; U/mL three months; 30.63 +/- 19.28; three-month drug therapy,endometriosis-related infertility; pregnancy rate; Clinical study; score vs
+2188766,two-month treatment period; double-blind fashion; Chronic vasodilator; maximal exercise capacity,Chronic vasodilator therapy; venous dilator; diuretic therapy; exercise performance,long-term flosequinan administration; symptom scores
+21896676,community healthcare practitioners; female patients; community healthcare resources; emergency departments,physiotherapy service; EECU admission; physiotherapy group; reasons physiotherapy services,higher rate; admission rates; lower rate; control group
+21914768,Male students; three time points; disease awareness information; TC +TSE information group,,lower message denigration; threat control strategies
+21924760,mean TTR; stroke cases; last month; relevant goal,individual AF; time-dependent manner; Several anticoagulation quality measures,international normalized ratio; 4:1 ratio; atrial fibrillation; Follow-up duration
+21975269,prospective study; 100 person-years; Cox proportional hazards regression; injectable methods,same results; FUNDING US National Institutes; Marginal structural model analyses; Hormonal contraceptives,ratio 1·98; ratio 1·97; HIV-1 incidence; oral hormonal contraceptive users
+21982657,myocardial infarction; 800 million; similar numbers; cardiovascular effects,high dose; Δ6-minute walk test; Ventricular tachycardia; functional capacity,large-scale outcome trial; myoblast administration; vs low; transcatheter intramyocardial administration
+22154769,Adverse experiences; healthy adults ≥60 years; adults ≥60 years old; multicenter study,herpes zoster; peripheral blood mononuclear cells; postherpetic neuralgia increase; VZV IFN-γ ELISPOT geometric mean count,
+2223363,60 elderly patients; 51 s; elderly patients; P less,1200 ml h-1; verbal contact; 2.5 mg kg-1; slower infusion group,different rates
+2224060,adult acute nonlymphocytic leukemia; 101 eligible cases; elderly patients; immunological response,bestatin immunotherapy; remission maintenance chemotherapy; 101 eligible; useful drug,long-term oral administration; significant longer survival
+22271197,varied sources; controlled trials; community settings; randomized trial,psychosocial interventions,outcome measure
+22341427,cardiac transplantation; genetic syndrome; Blalock-Taussig shunt; Term infants,risks methodology; Parametric time-to-event modeling; risk factors; full term,Intermediate-term mortality; intermediate-term mortality
+22416755,""" nerp ""; general knowledge; one scenario; unfamiliar kind",sound effects; thirty-two 4-; general facts; dislike carrots,
+22420121,training program; appropriate paradigm; trained group; autism spectrum disorder,associated disability; referential communication; cognitive level; 20 control,
+22435114,TAU group; Group cognitive behavior; Forty-seven children; intent-to-treat sample,high risk; post-intervention condition; agroup CBT intervention; Modified CBT interventions,agroup CBT; outcome measures
+22538329,myocardial infarction; 54 years; 64.9 mm; n = 425,angiographic coronary artery disease underwent serial evaluation; diffuse coronary atherosclerosis; medical therapies; greater progression,intensive low-density lipoprotein cholesterol; accelerated progression; accelerated disease progression; blood pressure
+22646975,IBD patients; State-Trait Anxiety Inventory; Fifty-six outpatients; control trial,audio disc; home practice; relaxation-training intervention; three relaxation-training sessions,Psychological factors
+22744141,therapist-only group; parent + therapist group; enhanced milieu teaching; time point,METHOD Seventy-seven; 36 intervention sessions; naturalistic language intervention strategies,EMT strategies; Separate linear regressions
+22865017,195 Veterans; 45 years; PARTICIPANTS Participants; careful examination,average age; clinical trial; Care managers,five primary care clinics; primary care providers
+22881991,verbal intelligence; emotion recognition skills; emotion training programme; control group,social skills; improved performance; co-morbid ID; intervention group,lower range; basic emotion recognition tasks; basic emotion recognition skills; limited efficacy
+22897461,metabolic syndrome; low-density lipoprotein cholesterol; high-density lipoprotein cholesterol; differential effect,greater hypotriglyceridemic capacity; S All; 10 mg/day; Rω groups,12 weeks; moderate dosing; polyacrylamide 3% gel electrophoresis
+22956006,significant difference; 51 years; optimal anti-emetic regimen; pre-cycle 2,randomized double-blind placebo-controlled cross-over trial; delayed nausea; cross-over trial; 4 mg,global QOL; greater decrease; oral granisetron; p = 0.06
+23021296,sun exposure 24 hours; physical activity level; physical activity; least one month,control group; S Depressive; 15 depressive; daily clinical practice,
+23103798,first followup; baseline clinical; pilot study; 3-month followup,2 equal groups; S Posterior tibial nerve stimulation; early clinical; urodynamic results,11 group 1; weekly session; 12 weeks; partial response
+23114870,transfusion requirements; second group; intramedullary alignment jigs; Hb loss,knee flexion; total knee arthroplasty; lower mean drainage; PURPOSE Recently,early outcomes; 2 equal groups; Knee Society Scores; week 2
+23356250,p <0.001; significant side-effect; mean hematocrit; sickle cell anemia,significant painful episodes; 6 months; 37 versus 83 crises; febrile illness,transfusion rate; 0.64±0.11 versus 1.51±0.34 average rates; admission rate; lower rates
+23357440,substantial improvement relative; treatment condition; large effects; 7-11 years,weekly CBT; modular cognitive-behavioral therapy; 16 sessions; METHOD A total,anxiety outcomes; primary anxiety outcomes; equivalent duration
+23392542,"nephropathy ""; further increase; diabetic group; five months",Type 2 diabetic; 250 mg/day; type 2 diabetes mellitus; plasma AGE-peptides,early-stage diabetic nephropathy
+23417625,group-based programs; larger samples; social skills; SST Group,Social Skills Training Group-based Program; facial emotions; Group-based Program; Social skills,primary outcome; error rates; whereas error rates
+23549581,cooperative research networks; initial 5-week treatment; comorbid pain risk; oxaliplatin treatment,higher sensory neuropathy; average chemotherapy-induced pain; placebo-controlled crossover trial; chemotherapy-induced painful peripheral neuropathy,primary hypothesis; TRIAL REGISTRATION clinicaltrials.gov Identifier
+23838728,four significant variables; child IEP goal attainment; specialized programs; targeted elements,two intervention quality; intervention practice; COMPASS intervention; early intervention,child outcomes
+23849147,three treatments; one treatment; 720 unique patients; analogous trial,potential early stopping; novel Bayesian adaptive comparative effectiveness trial; 720 unique; fewer total,
+23985254,acute AEs; GA genotypes; 1.66-fold increased risk; concurrent capecitabine,Common Terminology Criteria; logistic regression model; v. 3.0; 95% confidence intervals,CCND1 A870G polymorphism; odds ratios
+24075141,psychometric measures; Data mining; independent replication; further investigation,peripheral areas; various core; psychometric data; hyperactivity behaviours,ScanBrit collaboration; significant scores indicative; significant positive changes
+24080592,plasminogen activator inhibitor-1; affects coagulation; von Willebrand factor levels; Plasma lipids,40 mg,accelerated progression
+24317958,root canal sealer; syringe irrigation; root canal walls; two standardized grooves,superior effect; CLINICAL RELEVANCE Incomplete removal; ultrasonic irrigation; sealer removal,one control group; four groups
+24350813,45 kg; greatest mean improvement; related behaviors; one patient,double-blind [DB] phase; DB phase; body weight; 1.25 mg/day,sleep visual analog scale; phase-4 study; efficacy scale scores; secondary end-point
+24451919,patient groups; disorder-specific brain dysfunctions; autism spectrum disorder; Reward Reversal,placebo-controlled randomized design; Fluoxetine therefore; Age-matched boys; underactivated medial prefrontal cortex,
+24515505,health care office visits; school systems; greater proportion; ASD diagnosis,prescription drug use; ASD-related therapy,control parents; higher out-of-pocket costs; cost outcomes; adjusted analyses
+24660757,,,
+24726342,smooth muscle tone; p <0.001; responders 24; bronchodilator-induced improvements,stable COPD; underwent dyspnea evaluation; FEV1-FVC-based criteria; acute functional effect,specific airway resistance changes; VAS score; 300μg indacaterol administration
+24803369,metaphoric thinking; 13 participants; chance levels; educational implications,,novel primary conceptual metaphors
+24960665,370 donors; three molecular tests; Rhesus boxes; 19 novel Rhesus box polymorphisms,370 RH:1 Tunisian donors; RHD zygosity; hybrid Rhesus box; discordant results,
+24989854,clinical practice; adaptive functioning; SST-PTI condition; teacher involvement,current study; multi-informant perspective; social skills; large sample,Secondary outcomes; Primary outcome; three conditions; primary school
+25068497,preliminary immunogenicity; healthy children; 4 μg; new heptavalent conjugate vaccine,single-dose vaccination; significant increase; individual serotypes; IgG GMC,
+25369243,significant treatment effects; 97 patients 6-17 years; autism spectrum disorder; UNLABELLED Abstract Objective,8 week double-blind placebo-controlled period; 1.2 mg/kg/day,atomoxetine administration; two parent-based secondary outcome measures; registration number NCT00380692
+25479285,p <0.001; prescribed regimen; text messaging; Two patients,text messaging improved medication adherence; 6 months; cardiovascular disease; lipid-lowering drugs,REGISTRATION Controlled-Trials.com ISRCTN74757601; No text group 38/151
+25784723,regional ventricular performance; pilot study; tissue-Doppler imaging; congenital heart disease,Unique identifier; Multicenter prospective; exercise group,right ventricle free wall peak velocity E; 0.4±2.4 m/s; control group 4.6±18.1 cm/s; adverse changes
+25885649,seven days; Accelerometry data; Wilcoxon test; PA levels,rheumatoid arthritis; self-reported PA; cardiorespiratory fitness; 5 September 2012,27.8±5.4 kg/m2; maximal oxygen uptake test; moderate level; body mass index
+25886492,ITT sample; faecal aversion; paper group; = 17.01,"Eligible respondents; on-line baseline survey; n = 3,408; Non-Tailored PDS","25,511 people; kit return; eligibility questionnaire; p = .42"
+25898782,additional 1; sedated patients; fewer respiratory events; midazolam groups,bolus doses; 2-8 mg/kg/h; nurse anesthetist-controlled sedation; patient-controlled propofol sedation,Aldrete score; full recovery
+25931290,Randomized Controlled Pilot Study; oral prophylaxis; 44 children; pain intensity,lower pain; SADE condition; beneficial effect; decreased physiological anxiety,
+25950425,perioperative intravenous lidocaine; postoperative morphine requirement; analgesic consumption; intravenous bolus,2 mg⁄kg⁄h; lidocaine 2 mg⁄kg⁄h; perioperative intravenous lidocaine infusion; Morphine consumption,VAS scores; postoperative VAS scores
+26210844,best differentiates; developmental concerns; 10 minutes; positive predictive value,New Interactive Screening Test; Rapid Interactive Screening Test; Autism Spectrum Disorders; high-risk group,RITA-T scores; cutoff score; Mean scores
+26278470,90 patients; significant OCD symptom reduction; poor-insight OCD; n = 23,cognitive behavior therapy; new psychotherapy; Poor Insight; Inference-Based Approach versus Cognitive Behavioral Therapy,Mixed-effects models; Inference-Based Approach versus Cognitive Behavioral; inference-based approach; normal sensory-driven reality testing
+2678230,nonionic x-ray contrast media; small group; significant differences; non-ionic contrast media,,heart rate
+2803397,Groups 1-3; normal plasma levels; Simple mastoidectomies; 49 patients,free glycerol; skin incision; 10 minutes; plasma levels,retroauricular infiltration anaesthesia; Group 4 retroauricular infiltration anaesthesia; norepinephrine demonstrate; ear microsurgical operations
+2908133,further slight; 4 weeks; least 1 month; p less,early placebo responders; Low doses; 30 mg; 1-week washout period 47,HAM-A score; severe headache; 1 patient
+3067745,1% levobunolol; three treatment groups; 0.5% levobunolol; overall mean IOP,,
+3074300,uric acid; diastolic blood pressure; 40.0 +/- 2.5 pmol/l; 8.9 +/- 0.3 mmol/l,Type II diabetic; captopril monotherapy; early antihypertensive intervention; placebo-controlled study,Mean run-in postprandial blood glucose concentrations; blood kinin concentrations
+3081600,Hamilton Depression; Improvement Ratings; weight gain; dry mouth,7-day placebo washout period; two drugs,greater incidence; primary depression
+3534803,heparin 5000 U; 5-7 days; p less; significant benefit,Eight hundred; hypercoagulable state; venomotor tone; current theory,pelvic operations
+361799,eight French anticancer centres; important series; three first years; 603 patients,anticancer therapy; combined therapy; interrupted doses; first 600,
+384815,p = .03; placebo treatment; one year; three-month intervals,placebo groups; placebo-treated controls; forty-one Tanzanian preschool,growth rates
+3919804,12 months; Control patients; larger decrement; severe retinopathy,rapid fall; multiple injections; multiple injection group; multiple insulin injections,blood glucose concentration; longer duration; Oslo study; conventional insulin
+4919024,influenza A2 infection; 192 students; influenza A2 Hong Kong virus; double-blind field trial,placebo group; 100 mg.; 391 medical student,Prophylactic administration; protection rate
+6418441,aerosol beta-stimulants; asthmatic symptoms; treatment preferences; concomitant bronchodilator,31 adult asthmatic; concomitant bronchodilator therapy; 4-times daily; 2 mg 4-times daily,morning peak expiratory flow rate value
+6421395,biochemical risk factors; low density lipoprotein fraction; subfraction two; randomised trial,,serum HDL2 cholesterol concentration; plasma 6-keto-prostaglandin F1 alpha concentration; regular exercise serum cholesterol concentrations; serum thromboxane B2 concentration
+6920252,volume-pressure behavior; greater distensibility; p less; DPC fraction,2.47 +/- 1.84 mg/g dry lung; 2 mg/dose; 5.65 +/- 3.33 mg/g dry lung; 84.5 +/- 8.1 mg/g dry lung,abdominal delivery; Accelerated production; lower incidence; 24 h
+6938020,prostatic cancer; third trial; advanced disease; first trial,whereas most; other drugs,
+6951573,four months; 24-hour crisis service; One hundred; most psychiatric patients,most psychiatric,
+6989377,cholesterol esters; fatty acids; first two months; plasma lipid esters,significant serum lipid reductions; lipid esters; atherosclerotic disease,polyunsaturated fatty acids; last two months; minor changes; fatty acid changes
+7017018,,,
+7598243,antiemetic rescue; best choice; 360 ASA physical status I-III patients; ondansetron 4,5 mg; 360 ASA physical status I-III; placebo prior; ondansetron 4 mg,
+7707420,breast cancer susceptibility gene; breast cancer anxieties; breast cancer risk; psychological aspects,medical centers; specialized programs; own risk; lifetime risks,least likely; individualized breast cancer risk; first-degree relative; first-degree relatives
+7808649,analgesia activity; period overall assessment; pain relief; severe pain,4 hours; pain control; 30 mg suppositories; INTERVENTIONS Cholecystectomy,significant difference; 8 hours; p <0.02; ketorolac 10
+7814711,S. aureus mastitis; Systemic oxytetracycline; infected quarter; 60 d,11 mg/kg; combination therapy; intracisternal infusion; cephapirin therapy,commercial preparation
+7827398,elderly patients; Cost-effectiveness data; Swedish Trial; World Health Organization,,preventive pharmacological strategies
+7844976,Video-trained teachers; overall completeness; live workshop training; two approaches,,
+7853069,"anxiety symptom levels; 110,000 enrollees; central Colorado; mixed-model health maintenance organization",physician intervention; room screening questionnaire; INTERVENTIONS A physician; care physicians,primary care patient outcomes; care patient outcomes; outcome measures; change patient outcomes
+8726604,47 healthy women; 106.8 +/- 7.1; sevoflurane group; 11.9 +/- 1.4,outpatient surgery; 47 healthy; thiopental 3-6 mg/kg; vecuronium 0.1 mg/kg,minimum alveolar concentration 1.5 vs 1.3
+8771302,15 +/- 5 seconds; 90 patients; Doppler study; Prosthesis orientation,correct fluoroscopic image; orientation perpendicular; postoperative feasibility; favorable hemodynamic performance regardless,"Fluoroscopic evaluation; different intraoperative valve orientation influence feasibility; disk "" projection; postoperative fluoroscopic evaluation"
+8779382,epidural catheter; subcutaneous tunnelling; transparent adhesive dressing; Sixty two percent,,Outward catheter migration; inward migration; epidural catheter migration
+8911222,7 days; 4 women; randomized crossover design; biochemical responses,repetitive thoughts; less calm; drug-free adult; previous research,free tryptophan levels; primary objective; tryptophan-deficient amino acid drink; Plasma total
+8911223,repetitive thoughts; fundamental disturbance; Controlled studies; 15 patients,serotonin neurotransmitter system; placebo-controlled study; adverse cardiovascular events; placebo-controlled trial,autistic behavior; age level; full-scale IQ
+8913901,myocardial infarction; St. Louis University program; critical component; 568 participants,multivessel coronary artery disease; computerized serial ECG classification program; St. Louis University Core ECG Laboratory; customized software program,major changes; serial changes
+8916620,prevention program effectiveness; robust variance estimates; treatment effects; project DARE,within-cluster correlation; standard errors; GEE-independent method; regression models,binary outcomes
+8989009,median total; spinal anesthesia-induced hypotension; elderly patients; n = 28,median total dose; vasopressor therapy; ephedrine 3-mg boluses,colloid prehydration; preanesthetic administration
+9229602,acute allergic conjunctivitis]; Allergic conjunctivitis; [Antazoline/tetryzoline eyedrops; treatment period,p = 0.0395; Levocabastine eye drops; trial medication; antiallergic efficacy,
+9394106,possible 4 weeks; double-blind fashion; earlier studies; 1 g/day,2.3 +/- 0.4 pg/ml; 16.7 +/- 5.3 pg/ml; mean +/- SEM; 17.5 +/- 6.9 pg/ml,endotoxin concentration; mean endotoxin concentration; Mean initial endotoxin concentrations; Endotoxin concentration
+9481998,indomethacin phonophoresis; pressure pain threshold; temporomandibular joint pain; post-treatment PPT,placebo-controlled clinical trial; placebo cream,
+9573502,4] versus hBNP 0.025; adverse events; 16 decompensated heart failure patients; renal effects,right atrial pressure; 1722 +/- 139; Systemic hemodynamic; pulmonary capillary wedge pressure,decompensated cardiac failure; diuretic effects; plasma norepinephrine; promising agent
+9695300,One hundred; 0.82 +/- 2.4; 2 mL saline; fifty-six infants,0.15 mg/kg; S Salbutamol; clinical response; other groups,oxygen saturation; heart rate; received mist; Oxygen saturation
+9730996,tumor necrosis factor-alpha; leukotriene B4; mean age 51 yr; group three episodes,inflammatory components; placebo group three episodes; long-term studies; high-dose fluticasone,inhaled steroid; 4-wk administration
+9816035,breast cancer patients; significant activity; 21-day intervals; four cycles,Further studies; individualized dosing; master metastatic breast cancer protocol; Prior adjuvant chemotherapy,significant correlation; significant hematotoxicity; Phase II agents; limited exposure
